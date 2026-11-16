@@ -1,0 +1,26 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_desc,route_color,route_text_color,data_source
+R001,PMPML,1,Katraj – Shivajinagar,3,Katraj Depot → Bibwewadi → Swargate → Deccan → Shivajinagar,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R002,PMPML,4,Katraj – Pimpri Camp,3,Katraj → Swargate → Pune Station → Pimpri,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R003,PMPML,11,Swargate – Nigdi,3,Swargate → Deccan → Shivajinagar → Pimpri → Nigdi,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R004,PMPML,23,Kothrud – Hadapsar,3,Kothrud Depot → Deccan → Swargate → Hadapsar,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R005,PMPML,50,Kothrud – Swargate,3,Kothrud Depot → Paud Phata → Deccan → Swargate,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R006,PMPML,57,Warje – Hadapsar,3,Warje → Karve Nagar → Swargate → Camp → Hadapsar,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R007,PMPML,100,Hinjawadi – Pune Station,3,Hinjawadi Phase 3 → Phase 2 → Phase 1 → Wakad → Baner → Shivajinagar → Pune Station,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R008,PMPML,101,Hinjawadi – Swargate,3,Hinjawadi → Wakad → Aundh → Shivajinagar → Deccan → Swargate,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R009,PMPML,103,Kothrud Depot – Katraj,3,Kothrud Depot → Paud Road → Deccan → Swargate → Katraj,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R010,PMPML,105,Balewadi – Deccan,3,Balewadi → Baner → Aundh → Deccan Gymkhana,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R011,PMPML,111,PCMC – Swargate,3,PCMC Bhavan → Pimpri → Dapodi → Shivajinagar → Deccan → Swargate,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R012,PMPML,150,Wakad – Hadapsar,3,Wakad → Baner → Aundh → Pune Station → Yerawada → Kalyani Nagar → Hadapsar,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R013,PMPML,160,Nigdi – Katraj,3,Nigdi → Pimpri → Dapodi → Shivajinagar → Deccan → Swargate → Katraj,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R014,PMPML,168,Hinjawadi – Ramwadi,3,Hinjawadi → Wakad → Baner → Aundh → Pune Station → Yerawada → Kalyani Nagar → Ramwadi,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R015,PMPML,170,Kothrud – Ramwadi,3,Kothrud Depot → Deccan → Pune Station → Yerawada → Kalyani Nagar → Ramwadi,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R016,PMPML,172,Warje – Yerawada,3,Warje → Karve Nagar → Swargate → Pune Station → Yerawada,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R017,PMPML,175,Aundh – Hadapsar,3,Aundh → Shivajinagar → Deccan → Swargate → Hadapsar,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R018,PMPML,180,Pimpri – Hadapsar,3,Pimpri Camp → Dapodi → Shivajinagar → Pune Station → Hadapsar,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R019,PMPML,201,Baner – Katraj,3,Baner → Aundh → Deccan → Swargate → Bibwewadi → Katraj,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R020,PMPML,210,PCMC – Ramwadi,3,PCMC → Pimpri → Dapodi → Shivajinagar → Pune Station → Yerawada → Ramwadi,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R021,PMPML,217,Nigdi – Pune Station,3,Nigdi → Akurdi → Chinchwad → Pimpri → Dapodi → Pune Station,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R022,PMPML,221,Kothrud – Viman Nagar,3,Kothrud → Deccan → Pune Station → Yerawada → Kalyani Nagar → Viman Nagar,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R023,PMPML,225,Hinjawadi – Hadapsar,3,Hinjawadi → Wakad → Aundh → Pune Station → Camp → Hadapsar,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R024,PMPML,241,Karve Nagar – Yerawada,3,Karve Nagar → Swargate → Deccan → Pune Station → Yerawada,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data
+R025,PMPML,250,Katraj – Ramwadi,3,Katraj → Bibwewadi → Swargate → Pune Station → Yerawada → Kalyani Nagar → Ramwadi,FF6600,FFFFFF,ESTIMATED - citybuses.in / scribd / OpenCity community data

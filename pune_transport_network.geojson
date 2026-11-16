@@ -1,0 +1,7579 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "description": "Pune Public Transport Network - Bus + Metro",
+    "generated": "2026-11-12T19:13:03.222595",
+    "total_features": 344
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "BS001",
+      "properties": {
+        "id": "BS001",
+        "name": "Kothrud Depot",
+        "type": "bus_stop",
+        "zone": "Kothrud",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8102,
+          18.5054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS002",
+      "properties": {
+        "id": "BS002",
+        "name": "Vanaz Corner",
+        "type": "bus_stop",
+        "zone": "Kothrud",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8092,
+          18.5075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS003",
+      "properties": {
+        "id": "BS003",
+        "name": "Ideal Colony Bus Stop",
+        "type": "bus_stop",
+        "zone": "Kothrud",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8213,
+          18.512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS004",
+      "properties": {
+        "id": "BS004",
+        "name": "Paud Phata",
+        "type": "bus_stop",
+        "zone": "Kothrud",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.828,
+          18.5188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS005",
+      "properties": {
+        "id": "BS005",
+        "name": "More Vidyalaya",
+        "type": "bus_stop",
+        "zone": "Kothrud",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8085,
+          18.502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS006",
+      "properties": {
+        "id": "BS006",
+        "name": "Karve Nagar Chowk",
+        "type": "bus_stop",
+        "zone": "Karve Nagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82,
+          18.498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS007",
+      "properties": {
+        "id": "BS007",
+        "name": "Karve Nagar Depot",
+        "type": "bus_stop",
+        "zone": "Karve Nagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.819,
+          18.496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS008",
+      "properties": {
+        "id": "BS008",
+        "name": "Hingne Khurd",
+        "type": "bus_stop",
+        "zone": "Karve Nagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8155,
+          18.494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS009",
+      "properties": {
+        "id": "BS009",
+        "name": "Deccan Corner",
+        "type": "bus_stop",
+        "zone": "Deccan",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8495,
+          18.5188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS010",
+      "properties": {
+        "id": "BS010",
+        "name": "Fergusson College",
+        "type": "bus_stop",
+        "zone": "Deccan",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.845,
+          18.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS011",
+      "properties": {
+        "id": "BS011",
+        "name": "SNDT College Stop",
+        "type": "bus_stop",
+        "zone": "Deccan",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8382,
+          18.5162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS012",
+      "properties": {
+        "id": "BS012",
+        "name": "Garware College Stop",
+        "type": "bus_stop",
+        "zone": "Deccan",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.844,
+          18.5177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS013",
+      "properties": {
+        "id": "BS013",
+        "name": "Deccan Gymkhana Stop",
+        "type": "bus_stop",
+        "zone": "Deccan",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8508,
+          18.519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS014",
+      "properties": {
+        "id": "BS014",
+        "name": "Shivajinagar Bus Stand",
+        "type": "bus_stop",
+        "zone": "Shivajinagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.847,
+          18.5307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS015",
+      "properties": {
+        "id": "BS015",
+        "name": "Pune University Gate",
+        "type": "bus_stop",
+        "zone": "Shivajinagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8306,
+          18.5563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS016",
+      "properties": {
+        "id": "BS016",
+        "name": "Bal Gandharva",
+        "type": "bus_stop",
+        "zone": "Shivajinagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8484,
+          18.5278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS017",
+      "properties": {
+        "id": "BS017",
+        "name": "Swargate Bus Station",
+        "type": "bus_stop",
+        "zone": "Swargate",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8572,
+          18.502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS018",
+      "properties": {
+        "id": "BS018",
+        "name": "Swargate Corner",
+        "type": "bus_stop",
+        "zone": "Swargate",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8565,
+          18.5035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS019",
+      "properties": {
+        "id": "BS019",
+        "name": "Hirabaug",
+        "type": "bus_stop",
+        "zone": "Swargate",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8562,
+          18.508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS020",
+      "properties": {
+        "id": "BS020",
+        "name": "Laxminarayan Talkies",
+        "type": "bus_stop",
+        "zone": "Swargate",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8545,
+          18.506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS021",
+      "properties": {
+        "id": "BS021",
+        "name": "Katraj Depot",
+        "type": "bus_stop",
+        "zone": "Katraj",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.862,
+          18.458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS022",
+      "properties": {
+        "id": "BS022",
+        "name": "Katraj Chowk",
+        "type": "bus_stop",
+        "zone": "Katraj",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.86,
+          18.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS023",
+      "properties": {
+        "id": "BS023",
+        "name": "Bharati Vidyapeeth Gate",
+        "type": "bus_stop",
+        "zone": "Katraj",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8595,
+          18.471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS024",
+      "properties": {
+        "id": "BS024",
+        "name": "Morebaug",
+        "type": "bus_stop",
+        "zone": "Katraj",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.858,
+          18.476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS025",
+      "properties": {
+        "id": "BS025",
+        "name": "Balaji Nagar",
+        "type": "bus_stop",
+        "zone": "Katraj",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8575,
+          18.482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS026",
+      "properties": {
+        "id": "BS026",
+        "name": "Bibwewadi",
+        "type": "bus_stop",
+        "zone": "Katraj",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8568,
+          18.488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS027",
+      "properties": {
+        "id": "BS027",
+        "name": "Baner Phata",
+        "type": "bus_stop",
+        "zone": "Baner",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.788,
+          18.559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS028",
+      "properties": {
+        "id": "BS028",
+        "name": "Baner Gaon",
+        "type": "bus_stop",
+        "zone": "Baner",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.792,
+          18.562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS029",
+      "properties": {
+        "id": "BS029",
+        "name": "Balewadi Phata",
+        "type": "bus_stop",
+        "zone": "Baner",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.782,
+          18.572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS030",
+      "properties": {
+        "id": "BS030",
+        "name": "Aundh Depot",
+        "type": "bus_stop",
+        "zone": "Aundh",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.808,
+          18.5648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS031",
+      "properties": {
+        "id": "BS031",
+        "name": "Aundh Road",
+        "type": "bus_stop",
+        "zone": "Aundh",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.802,
+          18.568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS032",
+      "properties": {
+        "id": "BS032",
+        "name": "Parihar Chowk",
+        "type": "bus_stop",
+        "zone": "Aundh",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.806,
+          18.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS033",
+      "properties": {
+        "id": "BS033",
+        "name": "Sangvi",
+        "type": "bus_stop",
+        "zone": "Aundh",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.816,
+          18.579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS034",
+      "properties": {
+        "id": "BS034",
+        "name": "Wakad Bridge",
+        "type": "bus_stop",
+        "zone": "Wakad",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.77,
+          18.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS035",
+      "properties": {
+        "id": "BS035",
+        "name": "Wakad Phata",
+        "type": "bus_stop",
+        "zone": "Wakad",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.775,
+          18.592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS036",
+      "properties": {
+        "id": "BS036",
+        "name": "Dange Chowk",
+        "type": "bus_stop",
+        "zone": "Wakad",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.764,
+          18.5985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS037",
+      "properties": {
+        "id": "BS037",
+        "name": "Hinjawadi Phase 1",
+        "type": "bus_stop",
+        "zone": "Hinjawadi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7375,
+          18.597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS038",
+      "properties": {
+        "id": "BS038",
+        "name": "Hinjawadi Phase 2",
+        "type": "bus_stop",
+        "zone": "Hinjawadi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.731,
+          18.594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS039",
+      "properties": {
+        "id": "BS039",
+        "name": "Hinjawadi Phase 3",
+        "type": "bus_stop",
+        "zone": "Hinjawadi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.722,
+          18.589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS040",
+      "properties": {
+        "id": "BS040",
+        "name": "Hinjawadi Jakat Naka",
+        "type": "bus_stop",
+        "zone": "Hinjawadi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.742,
+          18.601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS041",
+      "properties": {
+        "id": "BS041",
+        "name": "Rajiv Gandhi Infotech",
+        "type": "bus_stop",
+        "zone": "Hinjawadi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7345,
+          18.5955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS042",
+      "properties": {
+        "id": "BS042",
+        "name": "Hadapsar Depot",
+        "type": "bus_stop",
+        "zone": "Hadapsar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.929,
+          18.502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS043",
+      "properties": {
+        "id": "BS043",
+        "name": "Hadapsar Phata",
+        "type": "bus_stop",
+        "zone": "Hadapsar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.927,
+          18.505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS044",
+      "properties": {
+        "id": "BS044",
+        "name": "Fatima Nagar",
+        "type": "bus_stop",
+        "zone": "Hadapsar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.914,
+          18.509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS045",
+      "properties": {
+        "id": "BS045",
+        "name": "Magarpatta City Gate",
+        "type": "bus_stop",
+        "zone": "Magarpatta",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.929,
+          18.511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS046",
+      "properties": {
+        "id": "BS046",
+        "name": "Magarpatta Road",
+        "type": "bus_stop",
+        "zone": "Magarpatta",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.924,
+          18.5095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS047",
+      "properties": {
+        "id": "BS047",
+        "name": "Kharadi",
+        "type": "bus_stop",
+        "zone": "Hadapsar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.942,
+          18.552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS048",
+      "properties": {
+        "id": "BS048",
+        "name": "Yerawada",
+        "type": "bus_stop",
+        "zone": "Yerawada",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89,
+          18.5445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS049",
+      "properties": {
+        "id": "BS049",
+        "name": "Yerawada Corner",
+        "type": "bus_stop",
+        "zone": "Yerawada",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8882,
+          18.542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS050",
+      "properties": {
+        "id": "BS050",
+        "name": "Aga Khan Palace",
+        "type": "bus_stop",
+        "zone": "Yerawada",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9018,
+          18.5508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS051",
+      "properties": {
+        "id": "BS051",
+        "name": "Kalyani Nagar Phata",
+        "type": "bus_stop",
+        "zone": "Kalyani Nagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.901,
+          18.5478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS052",
+      "properties": {
+        "id": "BS052",
+        "name": "Kalyani Nagar",
+        "type": "bus_stop",
+        "zone": "Kalyani Nagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.902,
+          18.549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS053",
+      "properties": {
+        "id": "BS053",
+        "name": "Ramwadi Corner",
+        "type": "bus_stop",
+        "zone": "Ramwadi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9048,
+          18.5542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS054",
+      "properties": {
+        "id": "BS054",
+        "name": "Ramwadi",
+        "type": "bus_stop",
+        "zone": "Ramwadi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9065,
+          18.556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS055",
+      "properties": {
+        "id": "BS055",
+        "name": "Pune Railway Station",
+        "type": "bus_stop",
+        "zone": "Pune Station",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8742,
+          18.5296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS056",
+      "properties": {
+        "id": "BS056",
+        "name": "Station Road",
+        "type": "bus_stop",
+        "zone": "Pune Station",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.875,
+          18.531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS057",
+      "properties": {
+        "id": "BS057",
+        "name": "Sambhaji Bridge",
+        "type": "bus_stop",
+        "zone": "Pune Station",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.872,
+          18.533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS058",
+      "properties": {
+        "id": "BS058",
+        "name": "Sangam Bridge",
+        "type": "bus_stop",
+        "zone": "Pune Station",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87,
+          18.525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS059",
+      "properties": {
+        "id": "BS059",
+        "name": "Pimpri Camp",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.801,
+          18.623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS060",
+      "properties": {
+        "id": "BS060",
+        "name": "Pimpri Station",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7991,
+          18.6281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS061",
+      "properties": {
+        "id": "BS061",
+        "name": "Chinchwad Station",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.795,
+          18.646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS062",
+      "properties": {
+        "id": "BS062",
+        "name": "Akurdi",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.782,
+          18.649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS063",
+      "properties": {
+        "id": "BS063",
+        "name": "Nigdi Pradhikaran",
+        "type": "bus_stop",
+        "zone": "Nigdi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7778,
+          18.6558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS064",
+      "properties": {
+        "id": "BS064",
+        "name": "Nigdi",
+        "type": "bus_stop",
+        "zone": "Nigdi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.776,
+          18.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS065",
+      "properties": {
+        "id": "BS065",
+        "name": "Sector 27 Nigdi",
+        "type": "bus_stop",
+        "zone": "Nigdi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7742,
+          18.6628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS066",
+      "properties": {
+        "id": "BS066",
+        "name": "PCMC Building",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.804,
+          18.6294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS067",
+      "properties": {
+        "id": "BS067",
+        "name": "Bhosari Depot",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8372,
+          18.6188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS068",
+      "properties": {
+        "id": "BS068",
+        "name": "Nashik Phata",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8205,
+          18.6115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS069",
+      "properties": {
+        "id": "BS069",
+        "name": "Kasarwadi",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8285,
+          18.596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS070",
+      "properties": {
+        "id": "BS070",
+        "name": "Dapodi Bus Stop",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8425,
+          18.566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS071",
+      "properties": {
+        "id": "BS071",
+        "name": "Pune Municipal Corporation",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8572,
+          18.5236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS072",
+      "properties": {
+        "id": "BS072",
+        "name": "Kesariwada",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.854,
+          18.5192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS073",
+      "properties": {
+        "id": "BS073",
+        "name": "Mandai",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8565,
+          18.508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS074",
+      "properties": {
+        "id": "BS074",
+        "name": "Budhwar Peth",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.856,
+          18.5155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS075",
+      "properties": {
+        "id": "BS075",
+        "name": "Lal Mahal",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.853,
+          18.5165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS076",
+      "properties": {
+        "id": "BS076",
+        "name": "Shaniwar Peth",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8505,
+          18.5178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS077",
+      "properties": {
+        "id": "BS077",
+        "name": "Nal Stop",
+        "type": "bus_stop",
+        "zone": "Deccan",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8322,
+          18.5155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS078",
+      "properties": {
+        "id": "BS078",
+        "name": "Paud Road",
+        "type": "bus_stop",
+        "zone": "Kothrud",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.814,
+          18.508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS079",
+      "properties": {
+        "id": "BS079",
+        "name": "Warje",
+        "type": "bus_stop",
+        "zone": "Warje",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.802,
+          18.489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS080",
+      "properties": {
+        "id": "BS080",
+        "name": "Kothrud Colony",
+        "type": "bus_stop",
+        "zone": "Kothrud",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8095,
+          18.504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS081",
+      "properties": {
+        "id": "BS081",
+        "name": "Bopodi Bus Stop",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8478,
+          18.552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS082",
+      "properties": {
+        "id": "BS082",
+        "name": "Khadki Market",
+        "type": "bus_stop",
+        "zone": "Khadki",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.851,
+          18.5398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS083",
+      "properties": {
+        "id": "BS083",
+        "name": "Range Hills",
+        "type": "bus_stop",
+        "zone": "Shivajinagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8532,
+          18.5312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS084",
+      "properties": {
+        "id": "BS084",
+        "name": "District Court Bus Stop",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8582,
+          18.5272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS085",
+      "properties": {
+        "id": "BS085",
+        "name": "RTO Pune",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8632,
+          18.5316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS086",
+      "properties": {
+        "id": "BS086",
+        "name": "Ruby Hall",
+        "type": "bus_stop",
+        "zone": "Pune Station",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8824,
+          18.5304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS087",
+      "properties": {
+        "id": "BS087",
+        "name": "Bund Garden",
+        "type": "bus_stop",
+        "zone": "Pune Station",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8878,
+          18.5342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS088",
+      "properties": {
+        "id": "BS088",
+        "name": "Nagar Road",
+        "type": "bus_stop",
+        "zone": "Yerawada",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9058,
+          18.5478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS089",
+      "properties": {
+        "id": "BS089",
+        "name": "Vimannagar",
+        "type": "bus_stop",
+        "zone": "Kalyani Nagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9122,
+          18.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS090",
+      "properties": {
+        "id": "BS090",
+        "name": "Airport Road",
+        "type": "bus_stop",
+        "zone": "Yerawada",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9105,
+          18.5812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS091",
+      "properties": {
+        "id": "BS091",
+        "name": "Lohegaon",
+        "type": "bus_stop",
+        "zone": "Yerawada",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9145,
+          18.6018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS092",
+      "properties": {
+        "id": "BS092",
+        "name": "Alandi Road",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8958,
+          18.6388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS093",
+      "properties": {
+        "id": "BS093",
+        "name": "Chakan Phata",
+        "type": "bus_stop",
+        "zone": "Chakan",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8622,
+          18.754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS094",
+      "properties": {
+        "id": "BS094",
+        "name": "Talegaon",
+        "type": "bus_stop",
+        "zone": "Talegaon",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6755,
+          18.7295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS095",
+      "properties": {
+        "id": "BS095",
+        "name": "Sus Road",
+        "type": "bus_stop",
+        "zone": "Baner",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7822,
+          18.5555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS096",
+      "properties": {
+        "id": "BS096",
+        "name": "Pashan",
+        "type": "bus_stop",
+        "zone": "Pashan",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8032,
+          18.5422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS097",
+      "properties": {
+        "id": "BS097",
+        "name": "Bavdhan",
+        "type": "bus_stop",
+        "zone": "Bavdhan",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7778,
+          18.5298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS098",
+      "properties": {
+        "id": "BS098",
+        "name": "Kothrud Bus Stop (NH)",
+        "type": "bus_stop",
+        "zone": "Kothrud",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.808,
+          18.5035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS099",
+      "properties": {
+        "id": "BS099",
+        "name": "Tathawade",
+        "type": "bus_stop",
+        "zone": "Hinjawadi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7612,
+          18.6128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS100",
+      "properties": {
+        "id": "BS100",
+        "name": "Wakad IT Park",
+        "type": "bus_stop",
+        "zone": "Wakad",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.768,
+          18.595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS101",
+      "properties": {
+        "id": "BS101",
+        "name": "Shivajinagar Court",
+        "type": "bus_stop",
+        "zone": "Shivajinagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8508,
+          18.5305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS102",
+      "properties": {
+        "id": "BS102",
+        "name": "Pune University Junction",
+        "type": "bus_stop",
+        "zone": "Shivajinagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8295,
+          18.5572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS103",
+      "properties": {
+        "id": "BS103",
+        "name": "Aundh Hospital",
+        "type": "bus_stop",
+        "zone": "Aundh",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.808,
+          18.566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS104",
+      "properties": {
+        "id": "BS104",
+        "name": "Wakad Flyover",
+        "type": "bus_stop",
+        "zone": "Wakad",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.772,
+          18.594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS105",
+      "properties": {
+        "id": "BS105",
+        "name": "Sus Phata",
+        "type": "bus_stop",
+        "zone": "Baner",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7838,
+          18.556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS106",
+      "properties": {
+        "id": "BS106",
+        "name": "Kothrud Naka",
+        "type": "bus_stop",
+        "zone": "Kothrud",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8092,
+          18.5062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS107",
+      "properties": {
+        "id": "BS107",
+        "name": "Market Yard",
+        "type": "bus_stop",
+        "zone": "Swargate",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.858,
+          18.498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS108",
+      "properties": {
+        "id": "BS108",
+        "name": "Gultekdi",
+        "type": "bus_stop",
+        "zone": "Swargate",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8558,
+          18.4958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS109",
+      "properties": {
+        "id": "BS109",
+        "name": "Kondhwa",
+        "type": "bus_stop",
+        "zone": "Kondhwa",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8812,
+          18.4718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS110",
+      "properties": {
+        "id": "BS110",
+        "name": "NIBM Road",
+        "type": "bus_stop",
+        "zone": "Kondhwa",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8982,
+          18.4805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS111",
+      "properties": {
+        "id": "BS111",
+        "name": "Ambegaon",
+        "type": "bus_stop",
+        "zone": "Katraj",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8485,
+          18.462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS112",
+      "properties": {
+        "id": "BS112",
+        "name": "Narhe",
+        "type": "bus_stop",
+        "zone": "Narhe",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8318,
+          18.4518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS113",
+      "properties": {
+        "id": "BS113",
+        "name": "Khopoli Road",
+        "type": "bus_stop",
+        "zone": "Katraj",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8622,
+          18.4482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS114",
+      "properties": {
+        "id": "BS114",
+        "name": "Pune-Satara Road",
+        "type": "bus_stop",
+        "zone": "Katraj",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8595,
+          18.4762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS115",
+      "properties": {
+        "id": "BS115",
+        "name": "Mhatre Bridge",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8465,
+          18.5095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS116",
+      "properties": {
+        "id": "BS116",
+        "name": "JM Road",
+        "type": "bus_stop",
+        "zone": "Shivajinagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8468,
+          18.5255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS117",
+      "properties": {
+        "id": "BS117",
+        "name": "Senapati Bapat Road",
+        "type": "bus_stop",
+        "zone": "Shivajinagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.836,
+          18.5275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS118",
+      "properties": {
+        "id": "BS118",
+        "name": "Karve Road Chowk",
+        "type": "bus_stop",
+        "zone": "Karve Nagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8342,
+          18.5068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS119",
+      "properties": {
+        "id": "BS119",
+        "name": "Erandwane",
+        "type": "bus_stop",
+        "zone": "Karve Nagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8302,
+          18.5148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS120",
+      "properties": {
+        "id": "BS120",
+        "name": "Sadashiv Peth",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8475,
+          18.5178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS121",
+      "properties": {
+        "id": "BS121",
+        "name": "Navi Peth",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8565,
+          18.5162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS122",
+      "properties": {
+        "id": "BS122",
+        "name": "Kasba Peth",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.856,
+          18.5155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS123",
+      "properties": {
+        "id": "BS123",
+        "name": "Parvati",
+        "type": "bus_stop",
+        "zone": "Swargate",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8468,
+          18.4938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS124",
+      "properties": {
+        "id": "BS124",
+        "name": "Dandekar Bridge",
+        "type": "bus_stop",
+        "zone": "Swargate",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8408,
+          18.5058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS125",
+      "properties": {
+        "id": "BS125",
+        "name": "Rasta Peth",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8615,
+          18.5172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS126",
+      "properties": {
+        "id": "BS126",
+        "name": "Bhavani Peth",
+        "type": "bus_stop",
+        "zone": "Central",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8655,
+          18.5155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS127",
+      "properties": {
+        "id": "BS127",
+        "name": "Kondhwa Khurd",
+        "type": "bus_stop",
+        "zone": "Kondhwa",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8912,
+          18.4648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS128",
+      "properties": {
+        "id": "BS128",
+        "name": "Undri",
+        "type": "bus_stop",
+        "zone": "Kondhwa",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9018,
+          18.4572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS129",
+      "properties": {
+        "id": "BS129",
+        "name": "Mohammadwadi",
+        "type": "bus_stop",
+        "zone": "Hadapsar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9012,
+          18.4818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS130",
+      "properties": {
+        "id": "BS130",
+        "name": "Wanowrie",
+        "type": "bus_stop",
+        "zone": "Hadapsar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9018,
+          18.4982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS131",
+      "properties": {
+        "id": "BS131",
+        "name": "Fatimanagar Bus Stop",
+        "type": "bus_stop",
+        "zone": "Hadapsar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9108,
+          18.5062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS132",
+      "properties": {
+        "id": "BS132",
+        "name": "Pune Cantonment",
+        "type": "bus_stop",
+        "zone": "Pune Station",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.898,
+          18.5295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS133",
+      "properties": {
+        "id": "BS133",
+        "name": "Sangamwadi",
+        "type": "bus_stop",
+        "zone": "Yerawada",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8912,
+          18.5398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS134",
+      "properties": {
+        "id": "BS134",
+        "name": "Boat Club Road",
+        "type": "bus_stop",
+        "zone": "Pune Station",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.878,
+          18.5278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS135",
+      "properties": {
+        "id": "BS135",
+        "name": "Camp",
+        "type": "bus_stop",
+        "zone": "Camp",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8882,
+          18.5262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS136",
+      "properties": {
+        "id": "BS136",
+        "name": "Koregaon Park",
+        "type": "bus_stop",
+        "zone": "Yerawada",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8938,
+          18.5362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS137",
+      "properties": {
+        "id": "BS137",
+        "name": "North Main Road",
+        "type": "bus_stop",
+        "zone": "Yerawada",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8942,
+          18.5405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS138",
+      "properties": {
+        "id": "BS138",
+        "name": "Viman Nagar Phata",
+        "type": "bus_stop",
+        "zone": "Kalyani Nagar",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9108,
+          18.5618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS139",
+      "properties": {
+        "id": "BS139",
+        "name": "Wagholi",
+        "type": "bus_stop",
+        "zone": "Wagholi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9742,
+          18.5728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS140",
+      "properties": {
+        "id": "BS140",
+        "name": "Kesnand Road",
+        "type": "bus_stop",
+        "zone": "Wagholi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9548,
+          18.5618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS141",
+      "properties": {
+        "id": "BS141",
+        "name": "Dehu Road",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7592,
+          18.7138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS142",
+      "properties": {
+        "id": "BS142",
+        "name": "Talwade",
+        "type": "bus_stop",
+        "zone": "Nigdi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7592,
+          18.6572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS143",
+      "properties": {
+        "id": "BS143",
+        "name": "Moshi",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8318,
+          18.6752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS144",
+      "properties": {
+        "id": "BS144",
+        "name": "Bhosari Circle",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8378,
+          18.6188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS145",
+      "properties": {
+        "id": "BS145",
+        "name": "Sant Tukaram Nagar Stop",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8128,
+          18.6218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS146",
+      "properties": {
+        "id": "BS146",
+        "name": "Pimpri Chowk",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8035,
+          18.6248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS147",
+      "properties": {
+        "id": "BS147",
+        "name": "Thergaon",
+        "type": "bus_stop",
+        "zone": "Wakad",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7738,
+          18.6052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS148",
+      "properties": {
+        "id": "BS148",
+        "name": "Ravet",
+        "type": "bus_stop",
+        "zone": "Nigdi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7532,
+          18.6482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS149",
+      "properties": {
+        "id": "BS149",
+        "name": "Chinchwadgaon",
+        "type": "bus_stop",
+        "zone": "PCMC",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7872,
+          18.6338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BS150",
+      "properties": {
+        "id": "BS150",
+        "name": "Hinjawadi Chowk",
+        "type": "bus_stop",
+        "zone": "Hinjawadi",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7268,
+          18.5938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL01",
+      "properties": {
+        "id": "PL01",
+        "name": "PCMC Bhavan",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80336,
+          18.62939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL02",
+      "properties": {
+        "id": "PL02",
+        "name": "Sant Tukaram Nagar",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.813,
+          18.6215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL03",
+      "properties": {
+        "id": "PL03",
+        "name": "Bhosari",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.822,
+          18.6112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL04",
+      "properties": {
+        "id": "PL04",
+        "name": "Kasarwadi",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8285,
+          18.5954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL05",
+      "properties": {
+        "id": "PL05",
+        "name": "Phugewadi",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8371,
+          18.5802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL06",
+      "properties": {
+        "id": "PL06",
+        "name": "Dapodi",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8423,
+          18.5661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL07",
+      "properties": {
+        "id": "PL07",
+        "name": "Bopodi",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8475,
+          18.5524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL08",
+      "properties": {
+        "id": "PL08",
+        "name": "Khadki",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8509,
+          18.5398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL09",
+      "properties": {
+        "id": "PL09",
+        "name": "Range Hill",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8532,
+          18.5312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL10",
+      "properties": {
+        "id": "PL10",
+        "name": "Shivajinagar",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.855,
+          18.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL11",
+      "properties": {
+        "id": "PL11",
+        "name": "District Court Pune",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85802,
+          18.52689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL12",
+      "properties": {
+        "id": "PL12",
+        "name": "Kasba Peth",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8562,
+          18.5165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL13",
+      "properties": {
+        "id": "PL13",
+        "name": "Mandai",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8565,
+          18.5082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PL14",
+      "properties": {
+        "id": "PL14",
+        "name": "Swargate",
+        "type": "metro_station",
+        "line": "Purple Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85696,
+          18.50095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL01",
+      "properties": {
+        "id": "AL01",
+        "name": "Vanaz",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8078,
+          18.5088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL02",
+      "properties": {
+        "id": "AL02",
+        "name": "Anand Nagar",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.815,
+          18.509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL03",
+      "properties": {
+        "id": "AL03",
+        "name": "Ideal Colony",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.821,
+          18.512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL04",
+      "properties": {
+        "id": "AL04",
+        "name": "Nal Stop",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.832,
+          18.5152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL05",
+      "properties": {
+        "id": "AL05",
+        "name": "SNDT College",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8385,
+          18.5165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL06",
+      "properties": {
+        "id": "AL06",
+        "name": "Garware College",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8442,
+          18.518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL07",
+      "properties": {
+        "id": "AL07",
+        "name": "Deccan Gymkhana",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8505,
+          18.5192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL08",
+      "properties": {
+        "id": "AL08",
+        "name": "Chhatrapati Sambhaji Udyan",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.856,
+          18.5205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL09",
+      "properties": {
+        "id": "AL09",
+        "name": "PMC",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL10",
+      "properties": {
+        "id": "AL10",
+        "name": "District Court Pune",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.858,
+          18.5269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL11",
+      "properties": {
+        "id": "AL11",
+        "name": "RTO Pune",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.863,
+          18.5315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL12",
+      "properties": {
+        "id": "AL12",
+        "name": "Pune Railway Station",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8742,
+          18.5285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL13",
+      "properties": {
+        "id": "AL13",
+        "name": "Ruby Hall Clinic",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8821,
+          18.5302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL14",
+      "properties": {
+        "id": "AL14",
+        "name": "Bund Garden",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8875,
+          18.534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL15",
+      "properties": {
+        "id": "AL15",
+        "name": "Yerawada",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.889,
+          18.542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL16",
+      "properties": {
+        "id": "AL16",
+        "name": "Kalyani Nagar",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8965,
+          18.547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AL17",
+      "properties": {
+        "id": "AL17",
+        "name": "Ramwadi",
+        "type": "metro_station",
+        "line": "Aqua Line",
+        "mode": "metro",
+        "interchange": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9042,
+          18.5535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "purple_line",
+      "properties": {
+        "name": "Purple Line",
+        "type": "metro_line",
+        "mode": "metro",
+        "from": "PCMC Bhavan",
+        "to": "Swargate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.80336,
+            18.62939
+          ],
+          [
+            73.813,
+            18.6215
+          ],
+          [
+            73.822,
+            18.6112
+          ],
+          [
+            73.8285,
+            18.5954
+          ],
+          [
+            73.8371,
+            18.5802
+          ],
+          [
+            73.8423,
+            18.5661
+          ],
+          [
+            73.8475,
+            18.5524
+          ],
+          [
+            73.8509,
+            18.5398
+          ],
+          [
+            73.8532,
+            18.5312
+          ],
+          [
+            73.855,
+            18.53
+          ],
+          [
+            73.85802,
+            18.52689
+          ],
+          [
+            73.8562,
+            18.5165
+          ],
+          [
+            73.8565,
+            18.5082
+          ],
+          [
+            73.85696,
+            18.50095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aqua_line",
+      "properties": {
+        "name": "Aqua Line",
+        "type": "metro_line",
+        "mode": "metro",
+        "from": "Vanaz",
+        "to": "Ramwadi"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8078,
+            18.5088
+          ],
+          [
+            73.815,
+            18.509
+          ],
+          [
+            73.821,
+            18.512
+          ],
+          [
+            73.832,
+            18.5152
+          ],
+          [
+            73.8385,
+            18.5165
+          ],
+          [
+            73.8442,
+            18.518
+          ],
+          [
+            73.8505,
+            18.5192
+          ],
+          [
+            73.856,
+            18.5205
+          ],
+          [
+            73.8567,
+            18.523
+          ],
+          [
+            73.858,
+            18.5269
+          ],
+          [
+            73.863,
+            18.5315
+          ],
+          [
+            73.8742,
+            18.5285
+          ],
+          [
+            73.8821,
+            18.5302
+          ],
+          [
+            73.8875,
+            18.534
+          ],
+          [
+            73.889,
+            18.542
+          ],
+          [
+            73.8965,
+            18.547
+          ],
+          [
+            73.9042,
+            18.5535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R001",
+      "properties": {
+        "route_id": "R001",
+        "route_number": "1",
+        "route_name": "Katraj \u2013 Shivajinagar",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.862,
+            18.458
+          ],
+          [
+            73.86,
+            18.46
+          ],
+          [
+            73.8575,
+            18.482
+          ],
+          [
+            73.8568,
+            18.488
+          ],
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.845,
+            18.52
+          ],
+          [
+            73.847,
+            18.5307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R002",
+      "properties": {
+        "route_id": "R002",
+        "route_number": "4",
+        "route_name": "Katraj \u2013 Pimpri Camp",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.862,
+            18.458
+          ],
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.8742,
+            18.5296
+          ],
+          [
+            73.801,
+            18.623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R003",
+      "properties": {
+        "route_id": "R003",
+        "route_number": "11",
+        "route_name": "Swargate \u2013 Nigdi",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.847,
+            18.5307
+          ],
+          [
+            73.801,
+            18.623
+          ],
+          [
+            73.7778,
+            18.6558
+          ],
+          [
+            73.776,
+            18.66
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R004",
+      "properties": {
+        "route_id": "R004",
+        "route_number": "23",
+        "route_name": "Kothrud \u2013 Hadapsar",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8102,
+            18.5054
+          ],
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.927,
+            18.505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R005",
+      "properties": {
+        "route_id": "R005",
+        "route_number": "50",
+        "route_name": "Kothrud \u2013 Swargate",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8102,
+            18.5054
+          ],
+          [
+            73.828,
+            18.5188
+          ],
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8572,
+            18.502
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R006",
+      "properties": {
+        "route_id": "R006",
+        "route_number": "57",
+        "route_name": "Warje \u2013 Hadapsar",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.802,
+            18.489
+          ],
+          [
+            73.82,
+            18.498
+          ],
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.8882,
+            18.5262
+          ],
+          [
+            73.927,
+            18.505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R007",
+      "properties": {
+        "route_id": "R007",
+        "route_number": "100",
+        "route_name": "Hinjawadi \u2013 Pune Station",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.722,
+            18.589
+          ],
+          [
+            73.731,
+            18.594
+          ],
+          [
+            73.7375,
+            18.597
+          ],
+          [
+            73.77,
+            18.59
+          ],
+          [
+            73.792,
+            18.562
+          ],
+          [
+            73.808,
+            18.5648
+          ],
+          [
+            73.8295,
+            18.5572
+          ],
+          [
+            73.8742,
+            18.5296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R008",
+      "properties": {
+        "route_id": "R008",
+        "route_number": "101",
+        "route_name": "Hinjawadi \u2013 Swargate",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.722,
+            18.589
+          ],
+          [
+            73.731,
+            18.594
+          ],
+          [
+            73.7375,
+            18.597
+          ],
+          [
+            73.775,
+            18.592
+          ],
+          [
+            73.816,
+            18.579
+          ],
+          [
+            73.847,
+            18.5307
+          ],
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8572,
+            18.502
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R009",
+      "properties": {
+        "route_id": "R009",
+        "route_number": "103",
+        "route_name": "Kothrud Depot \u2013 Katraj",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8102,
+            18.5054
+          ],
+          [
+            73.814,
+            18.508
+          ],
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.862,
+            18.458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R010",
+      "properties": {
+        "route_id": "R010",
+        "route_number": "105",
+        "route_name": "Balewadi \u2013 Deccan",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.782,
+            18.572
+          ],
+          [
+            73.792,
+            18.562
+          ],
+          [
+            73.808,
+            18.5648
+          ],
+          [
+            73.806,
+            18.56
+          ],
+          [
+            73.8508,
+            18.519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R011",
+      "properties": {
+        "route_id": "R011",
+        "route_number": "111",
+        "route_name": "PCMC \u2013 Swargate",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.804,
+            18.6294
+          ],
+          [
+            73.801,
+            18.623
+          ],
+          [
+            73.8425,
+            18.566
+          ],
+          [
+            73.847,
+            18.5307
+          ],
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8572,
+            18.502
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R012",
+      "properties": {
+        "route_id": "R012",
+        "route_number": "150",
+        "route_name": "Wakad \u2013 Hadapsar",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.77,
+            18.59
+          ],
+          [
+            73.788,
+            18.559
+          ],
+          [
+            73.802,
+            18.568
+          ],
+          [
+            73.8742,
+            18.5296
+          ],
+          [
+            73.89,
+            18.5445
+          ],
+          [
+            73.902,
+            18.549
+          ],
+          [
+            73.927,
+            18.505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R013",
+      "properties": {
+        "route_id": "R013",
+        "route_number": "160",
+        "route_name": "Nigdi \u2013 Katraj",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.776,
+            18.66
+          ],
+          [
+            73.801,
+            18.623
+          ],
+          [
+            73.8425,
+            18.566
+          ],
+          [
+            73.847,
+            18.5307
+          ],
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.862,
+            18.458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R014",
+      "properties": {
+        "route_id": "R014",
+        "route_number": "168",
+        "route_name": "Hinjawadi \u2013 Ramwadi",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.722,
+            18.589
+          ],
+          [
+            73.77,
+            18.59
+          ],
+          [
+            73.792,
+            18.562
+          ],
+          [
+            73.808,
+            18.5648
+          ],
+          [
+            73.8742,
+            18.5296
+          ],
+          [
+            73.89,
+            18.5445
+          ],
+          [
+            73.902,
+            18.549
+          ],
+          [
+            73.9065,
+            18.556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R015",
+      "properties": {
+        "route_id": "R015",
+        "route_number": "170",
+        "route_name": "Kothrud \u2013 Ramwadi",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8102,
+            18.5054
+          ],
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8742,
+            18.5296
+          ],
+          [
+            73.89,
+            18.5445
+          ],
+          [
+            73.902,
+            18.549
+          ],
+          [
+            73.9065,
+            18.556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R016",
+      "properties": {
+        "route_id": "R016",
+        "route_number": "172",
+        "route_name": "Warje \u2013 Yerawada",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.802,
+            18.489
+          ],
+          [
+            73.82,
+            18.498
+          ],
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.8742,
+            18.5296
+          ],
+          [
+            73.89,
+            18.5445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R017",
+      "properties": {
+        "route_id": "R017",
+        "route_number": "175",
+        "route_name": "Aundh \u2013 Hadapsar",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.802,
+            18.568
+          ],
+          [
+            73.847,
+            18.5307
+          ],
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.927,
+            18.505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R018",
+      "properties": {
+        "route_id": "R018",
+        "route_number": "180",
+        "route_name": "Pimpri \u2013 Hadapsar",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.801,
+            18.623
+          ],
+          [
+            73.8425,
+            18.566
+          ],
+          [
+            73.847,
+            18.5307
+          ],
+          [
+            73.8742,
+            18.5296
+          ],
+          [
+            73.927,
+            18.505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R019",
+      "properties": {
+        "route_id": "R019",
+        "route_number": "201",
+        "route_name": "Baner \u2013 Katraj",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.792,
+            18.562
+          ],
+          [
+            73.802,
+            18.568
+          ],
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.8568,
+            18.488
+          ],
+          [
+            73.862,
+            18.458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R020",
+      "properties": {
+        "route_id": "R020",
+        "route_number": "210",
+        "route_name": "PCMC \u2013 Ramwadi",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.804,
+            18.6294
+          ],
+          [
+            73.801,
+            18.623
+          ],
+          [
+            73.8425,
+            18.566
+          ],
+          [
+            73.847,
+            18.5307
+          ],
+          [
+            73.8742,
+            18.5296
+          ],
+          [
+            73.89,
+            18.5445
+          ],
+          [
+            73.9065,
+            18.556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R021",
+      "properties": {
+        "route_id": "R021",
+        "route_number": "217",
+        "route_name": "Nigdi \u2013 Pune Station",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.776,
+            18.66
+          ],
+          [
+            73.782,
+            18.649
+          ],
+          [
+            73.795,
+            18.646
+          ],
+          [
+            73.801,
+            18.623
+          ],
+          [
+            73.8425,
+            18.566
+          ],
+          [
+            73.8742,
+            18.5296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R022",
+      "properties": {
+        "route_id": "R022",
+        "route_number": "221",
+        "route_name": "Kothrud \u2013 Viman Nagar",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8102,
+            18.5054
+          ],
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8742,
+            18.5296
+          ],
+          [
+            73.89,
+            18.5445
+          ],
+          [
+            73.902,
+            18.549
+          ],
+          [
+            73.9122,
+            18.56
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R023",
+      "properties": {
+        "route_id": "R023",
+        "route_number": "225",
+        "route_name": "Hinjawadi \u2013 Hadapsar",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.722,
+            18.589
+          ],
+          [
+            73.775,
+            18.592
+          ],
+          [
+            73.802,
+            18.568
+          ],
+          [
+            73.8742,
+            18.5296
+          ],
+          [
+            73.8882,
+            18.5262
+          ],
+          [
+            73.927,
+            18.505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R024",
+      "properties": {
+        "route_id": "R024",
+        "route_number": "241",
+        "route_name": "Karve Nagar \u2013 Yerawada",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.82,
+            18.498
+          ],
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8742,
+            18.5296
+          ],
+          [
+            73.89,
+            18.5445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "route_R025",
+      "properties": {
+        "route_id": "R025",
+        "route_number": "250",
+        "route_name": "Katraj \u2013 Ramwadi",
+        "type": "bus_route",
+        "mode": "bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.862,
+            18.458
+          ],
+          [
+            73.8568,
+            18.488
+          ],
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.8742,
+            18.5296
+          ],
+          [
+            73.89,
+            18.5445
+          ],
+          [
+            73.902,
+            18.549
+          ],
+          [
+            73.9065,
+            18.556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kothrud Depot",
+        "to_station": "Vanaz",
+        "distance_m": 455.0,
+        "walk_minutes": 6.3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8102,
+            18.5054
+          ],
+          [
+            73.8078,
+            18.5088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kothrud Depot",
+        "to_station": "Anand Nagar",
+        "distance_m": 645.0,
+        "walk_minutes": 9.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8102,
+            18.5054
+          ],
+          [
+            73.815,
+            18.509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Vanaz Corner",
+        "to_station": "Vanaz",
+        "distance_m": 207.0,
+        "walk_minutes": 2.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8092,
+            18.5075
+          ],
+          [
+            73.8078,
+            18.5088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Vanaz Corner",
+        "to_station": "Anand Nagar",
+        "distance_m": 634.0,
+        "walk_minutes": 8.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8092,
+            18.5075
+          ],
+          [
+            73.815,
+            18.509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Ideal Colony Bus Stop",
+        "to_station": "Anand Nagar",
+        "distance_m": 743.0,
+        "walk_minutes": 10.3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8213,
+            18.512
+          ],
+          [
+            73.815,
+            18.509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Ideal Colony Bus Stop",
+        "to_station": "Ideal Colony",
+        "distance_m": 32.0,
+        "walk_minutes": 0.4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8213,
+            18.512
+          ],
+          [
+            73.821,
+            18.512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Paud Phata",
+        "to_station": "Nal Stop",
+        "distance_m": 581.0,
+        "walk_minutes": 8.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.828,
+            18.5188
+          ],
+          [
+            73.832,
+            18.5152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "More Vidyalaya",
+        "to_station": "Vanaz",
+        "distance_m": 760.0,
+        "walk_minutes": 10.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8085,
+            18.502
+          ],
+          [
+            73.8078,
+            18.5088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Deccan Corner",
+        "to_station": "Kasba Peth",
+        "distance_m": 751.0,
+        "walk_minutes": 10.4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8562,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Deccan Corner",
+        "to_station": "Garware College",
+        "distance_m": 566.0,
+        "walk_minutes": 7.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8442,
+            18.518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Deccan Corner",
+        "to_station": "Deccan Gymkhana",
+        "distance_m": 114.0,
+        "walk_minutes": 1.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.8505,
+            18.5192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Deccan Corner",
+        "to_station": "Chhatrapati Sambhaji Udyan",
+        "distance_m": 711.0,
+        "walk_minutes": 9.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8495,
+            18.5188
+          ],
+          [
+            73.856,
+            18.5205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Fergusson College",
+        "to_station": "SNDT College",
+        "distance_m": 788.0,
+        "walk_minutes": 10.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.845,
+            18.52
+          ],
+          [
+            73.8385,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Fergusson College",
+        "to_station": "Garware College",
+        "distance_m": 238.0,
+        "walk_minutes": 3.3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.845,
+            18.52
+          ],
+          [
+            73.8442,
+            18.518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Fergusson College",
+        "to_station": "Deccan Gymkhana",
+        "distance_m": 587.0,
+        "walk_minutes": 8.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.845,
+            18.52
+          ],
+          [
+            73.8505,
+            18.5192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "SNDT College Stop",
+        "to_station": "Nal Stop",
+        "distance_m": 663.0,
+        "walk_minutes": 9.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8382,
+            18.5162
+          ],
+          [
+            73.832,
+            18.5152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "SNDT College Stop",
+        "to_station": "SNDT College",
+        "distance_m": 46.0,
+        "walk_minutes": 0.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8382,
+            18.5162
+          ],
+          [
+            73.8385,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "SNDT College Stop",
+        "to_station": "Garware College",
+        "distance_m": 664.0,
+        "walk_minutes": 9.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8382,
+            18.5162
+          ],
+          [
+            73.8442,
+            18.518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Garware College Stop",
+        "to_station": "SNDT College",
+        "distance_m": 595.0,
+        "walk_minutes": 8.3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.844,
+            18.5177
+          ],
+          [
+            73.8385,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Garware College Stop",
+        "to_station": "Garware College",
+        "distance_m": 39.0,
+        "walk_minutes": 0.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.844,
+            18.5177
+          ],
+          [
+            73.8442,
+            18.518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Garware College Stop",
+        "to_station": "Deccan Gymkhana",
+        "distance_m": 705.0,
+        "walk_minutes": 9.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.844,
+            18.5177
+          ],
+          [
+            73.8505,
+            18.5192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Deccan Gymkhana Stop",
+        "to_station": "Kasba Peth",
+        "distance_m": 634.0,
+        "walk_minutes": 8.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8508,
+            18.519
+          ],
+          [
+            73.8562,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Deccan Gymkhana Stop",
+        "to_station": "Garware College",
+        "distance_m": 705.0,
+        "walk_minutes": 9.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8508,
+            18.519
+          ],
+          [
+            73.8442,
+            18.518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Deccan Gymkhana Stop",
+        "to_station": "Deccan Gymkhana",
+        "distance_m": 39.0,
+        "walk_minutes": 0.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8508,
+            18.519
+          ],
+          [
+            73.8505,
+            18.5192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Deccan Gymkhana Stop",
+        "to_station": "Chhatrapati Sambhaji Udyan",
+        "distance_m": 573.0,
+        "walk_minutes": 8.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8508,
+            18.519
+          ],
+          [
+            73.856,
+            18.5205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Deccan Gymkhana Stop",
+        "to_station": "PMC",
+        "distance_m": 765.0,
+        "walk_minutes": 10.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8508,
+            18.519
+          ],
+          [
+            73.8567,
+            18.523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Shivajinagar Bus Stand",
+        "to_station": "Range Hill",
+        "distance_m": 656.0,
+        "walk_minutes": 9.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.847,
+            18.5307
+          ],
+          [
+            73.8532,
+            18.5312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Bal Gandharva",
+        "to_station": "Range Hill",
+        "distance_m": 632.0,
+        "walk_minutes": 8.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8484,
+            18.5278
+          ],
+          [
+            73.8532,
+            18.5312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Bal Gandharva",
+        "to_station": "Shivajinagar",
+        "distance_m": 738.0,
+        "walk_minutes": 10.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8484,
+            18.5278
+          ],
+          [
+            73.855,
+            18.53
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Swargate Bus Station",
+        "to_station": "Mandai",
+        "distance_m": 693.0,
+        "walk_minutes": 9.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.8565,
+            18.5082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Swargate Bus Station",
+        "to_station": "Swargate",
+        "distance_m": 119.0,
+        "walk_minutes": 1.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8572,
+            18.502
+          ],
+          [
+            73.85696,
+            18.50095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Swargate Corner",
+        "to_station": "Mandai",
+        "distance_m": 523.0,
+        "walk_minutes": 7.3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8565,
+            18.5035
+          ],
+          [
+            73.8565,
+            18.5082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Swargate Corner",
+        "to_station": "Swargate",
+        "distance_m": 288.0,
+        "walk_minutes": 4.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8565,
+            18.5035
+          ],
+          [
+            73.85696,
+            18.50095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Hirabaug",
+        "to_station": "Mandai",
+        "distance_m": 39.0,
+        "walk_minutes": 0.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8562,
+            18.508
+          ],
+          [
+            73.8565,
+            18.5082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Hirabaug",
+        "to_station": "Swargate",
+        "distance_m": 788.0,
+        "walk_minutes": 10.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8562,
+            18.508
+          ],
+          [
+            73.85696,
+            18.50095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Laxminarayan Talkies",
+        "to_station": "Mandai",
+        "distance_m": 323.0,
+        "walk_minutes": 4.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8545,
+            18.506
+          ],
+          [
+            73.8565,
+            18.5082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Laxminarayan Talkies",
+        "to_station": "Swargate",
+        "distance_m": 619.0,
+        "walk_minutes": 8.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8545,
+            18.506
+          ],
+          [
+            73.85696,
+            18.50095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Yerawada",
+        "to_station": "Yerawada",
+        "distance_m": 297.0,
+        "walk_minutes": 4.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.89,
+            18.5445
+          ],
+          [
+            73.889,
+            18.542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Yerawada",
+        "to_station": "Kalyani Nagar",
+        "distance_m": 739.0,
+        "walk_minutes": 10.3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.89,
+            18.5445
+          ],
+          [
+            73.8965,
+            18.547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Yerawada Corner",
+        "to_station": "Yerawada",
+        "distance_m": 84.0,
+        "walk_minutes": 1.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8882,
+            18.542
+          ],
+          [
+            73.889,
+            18.542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Aga Khan Palace",
+        "to_station": "Kalyani Nagar",
+        "distance_m": 701.0,
+        "walk_minutes": 9.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9018,
+            18.5508
+          ],
+          [
+            73.8965,
+            18.547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Aga Khan Palace",
+        "to_station": "Ramwadi",
+        "distance_m": 393.0,
+        "walk_minutes": 5.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9018,
+            18.5508
+          ],
+          [
+            73.9042,
+            18.5535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kalyani Nagar Phata",
+        "to_station": "Kalyani Nagar",
+        "distance_m": 483.0,
+        "walk_minutes": 6.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.901,
+            18.5478
+          ],
+          [
+            73.8965,
+            18.547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kalyani Nagar Phata",
+        "to_station": "Ramwadi",
+        "distance_m": 718.0,
+        "walk_minutes": 10.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.901,
+            18.5478
+          ],
+          [
+            73.9042,
+            18.5535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kalyani Nagar",
+        "to_station": "Kalyani Nagar",
+        "distance_m": 621.0,
+        "walk_minutes": 8.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.902,
+            18.549
+          ],
+          [
+            73.8965,
+            18.547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kalyani Nagar",
+        "to_station": "Ramwadi",
+        "distance_m": 552.0,
+        "walk_minutes": 7.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.902,
+            18.549
+          ],
+          [
+            73.9042,
+            18.5535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Ramwadi Corner",
+        "to_station": "Ramwadi",
+        "distance_m": 100.0,
+        "walk_minutes": 1.4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9048,
+            18.5542
+          ],
+          [
+            73.9042,
+            18.5535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Ramwadi",
+        "to_station": "Ramwadi",
+        "distance_m": 369.0,
+        "walk_minutes": 5.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9065,
+            18.556
+          ],
+          [
+            73.9042,
+            18.5535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Pune Railway Station",
+        "to_station": "Pune Railway Station",
+        "distance_m": 122.0,
+        "walk_minutes": 1.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8742,
+            18.5296
+          ],
+          [
+            73.8742,
+            18.5285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Station Road",
+        "to_station": "Pune Railway Station",
+        "distance_m": 291.0,
+        "walk_minutes": 4.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.875,
+            18.531
+          ],
+          [
+            73.8742,
+            18.5285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Station Road",
+        "to_station": "Ruby Hall Clinic",
+        "distance_m": 754.0,
+        "walk_minutes": 10.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.875,
+            18.531
+          ],
+          [
+            73.8821,
+            18.5302
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Sambhaji Bridge",
+        "to_station": "Pune Railway Station",
+        "distance_m": 552.0,
+        "walk_minutes": 7.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.872,
+            18.533
+          ],
+          [
+            73.8742,
+            18.5285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Sangam Bridge",
+        "to_station": "Pune Railway Station",
+        "distance_m": 590.0,
+        "walk_minutes": 8.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.87,
+            18.525
+          ],
+          [
+            73.8742,
+            18.5285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Pimpri Camp",
+        "to_station": "PCMC Bhavan",
+        "distance_m": 753.0,
+        "walk_minutes": 10.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.801,
+            18.623
+          ],
+          [
+            73.80336,
+            18.62939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Pimpri Station",
+        "to_station": "PCMC Bhavan",
+        "distance_m": 471.0,
+        "walk_minutes": 6.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.7991,
+            18.6281
+          ],
+          [
+            73.80336,
+            18.62939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "PCMC Building",
+        "to_station": "PCMC Bhavan",
+        "distance_m": 67.0,
+        "walk_minutes": 0.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.804,
+            18.6294
+          ],
+          [
+            73.80336,
+            18.62939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Nashik Phata",
+        "to_station": "Bhosari",
+        "distance_m": 162.0,
+        "walk_minutes": 2.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8205,
+            18.6115
+          ],
+          [
+            73.822,
+            18.6112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kasarwadi",
+        "to_station": "Kasarwadi",
+        "distance_m": 67.0,
+        "walk_minutes": 0.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8285,
+            18.596
+          ],
+          [
+            73.8285,
+            18.5954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Dapodi Bus Stop",
+        "to_station": "Dapodi",
+        "distance_m": 24.0,
+        "walk_minutes": 0.3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8425,
+            18.566
+          ],
+          [
+            73.8423,
+            18.5661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Pune Municipal Corporation",
+        "to_station": "Shivajinagar",
+        "distance_m": 748.0,
+        "walk_minutes": 10.4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8572,
+            18.5236
+          ],
+          [
+            73.855,
+            18.53
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Pune Municipal Corporation",
+        "to_station": "District Court Pune",
+        "distance_m": 376.0,
+        "walk_minutes": 5.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8572,
+            18.5236
+          ],
+          [
+            73.85802,
+            18.52689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Pune Municipal Corporation",
+        "to_station": "Kasba Peth",
+        "distance_m": 796.0,
+        "walk_minutes": 11.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8572,
+            18.5236
+          ],
+          [
+            73.8562,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Pune Municipal Corporation",
+        "to_station": "Chhatrapati Sambhaji Udyan",
+        "distance_m": 367.0,
+        "walk_minutes": 5.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8572,
+            18.5236
+          ],
+          [
+            73.856,
+            18.5205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Pune Municipal Corporation",
+        "to_station": "PMC",
+        "distance_m": 85.0,
+        "walk_minutes": 1.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8572,
+            18.5236
+          ],
+          [
+            73.8567,
+            18.523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Pune Municipal Corporation",
+        "to_station": "District Court Pune",
+        "distance_m": 377.0,
+        "walk_minutes": 5.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8572,
+            18.5236
+          ],
+          [
+            73.858,
+            18.5269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kesariwada",
+        "to_station": "Kasba Peth",
+        "distance_m": 379.0,
+        "walk_minutes": 5.3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.854,
+            18.5192
+          ],
+          [
+            73.8562,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kesariwada",
+        "to_station": "Deccan Gymkhana",
+        "distance_m": 369.0,
+        "walk_minutes": 5.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.854,
+            18.5192
+          ],
+          [
+            73.8505,
+            18.5192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kesariwada",
+        "to_station": "Chhatrapati Sambhaji Udyan",
+        "distance_m": 256.0,
+        "walk_minutes": 3.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.854,
+            18.5192
+          ],
+          [
+            73.856,
+            18.5205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kesariwada",
+        "to_station": "PMC",
+        "distance_m": 509.0,
+        "walk_minutes": 7.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.854,
+            18.5192
+          ],
+          [
+            73.8567,
+            18.523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Mandai",
+        "to_station": "Mandai",
+        "distance_m": 22.0,
+        "walk_minutes": 0.3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8565,
+            18.508
+          ],
+          [
+            73.8565,
+            18.5082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Mandai",
+        "to_station": "Swargate",
+        "distance_m": 785.0,
+        "walk_minutes": 10.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8565,
+            18.508
+          ],
+          [
+            73.85696,
+            18.50095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Budhwar Peth",
+        "to_station": "Kasba Peth",
+        "distance_m": 113.0,
+        "walk_minutes": 1.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.856,
+            18.5155
+          ],
+          [
+            73.8562,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Budhwar Peth",
+        "to_station": "Deccan Gymkhana",
+        "distance_m": 711.0,
+        "walk_minutes": 9.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.856,
+            18.5155
+          ],
+          [
+            73.8505,
+            18.5192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Budhwar Peth",
+        "to_station": "Chhatrapati Sambhaji Udyan",
+        "distance_m": 556.0,
+        "walk_minutes": 7.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.856,
+            18.5155
+          ],
+          [
+            73.856,
+            18.5205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Lal Mahal",
+        "to_station": "Kasba Peth",
+        "distance_m": 337.0,
+        "walk_minutes": 4.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.853,
+            18.5165
+          ],
+          [
+            73.8562,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Lal Mahal",
+        "to_station": "Deccan Gymkhana",
+        "distance_m": 400.0,
+        "walk_minutes": 5.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.853,
+            18.5165
+          ],
+          [
+            73.8505,
+            18.5192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Lal Mahal",
+        "to_station": "Chhatrapati Sambhaji Udyan",
+        "distance_m": 546.0,
+        "walk_minutes": 7.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.853,
+            18.5165
+          ],
+          [
+            73.856,
+            18.5205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Shaniwar Peth",
+        "to_station": "Kasba Peth",
+        "distance_m": 618.0,
+        "walk_minutes": 8.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8505,
+            18.5178
+          ],
+          [
+            73.8562,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Shaniwar Peth",
+        "to_station": "Garware College",
+        "distance_m": 665.0,
+        "walk_minutes": 9.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8505,
+            18.5178
+          ],
+          [
+            73.8442,
+            18.518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Shaniwar Peth",
+        "to_station": "Deccan Gymkhana",
+        "distance_m": 156.0,
+        "walk_minutes": 2.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8505,
+            18.5178
+          ],
+          [
+            73.8505,
+            18.5192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Shaniwar Peth",
+        "to_station": "Chhatrapati Sambhaji Udyan",
+        "distance_m": 653.0,
+        "walk_minutes": 9.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8505,
+            18.5178
+          ],
+          [
+            73.856,
+            18.5205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Nal Stop",
+        "to_station": "Nal Stop",
+        "distance_m": 39.0,
+        "walk_minutes": 0.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8322,
+            18.5155
+          ],
+          [
+            73.832,
+            18.5152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Nal Stop",
+        "to_station": "SNDT College",
+        "distance_m": 674.0,
+        "walk_minutes": 9.4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8322,
+            18.5155
+          ],
+          [
+            73.8385,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Paud Road",
+        "to_station": "Vanaz",
+        "distance_m": 660.0,
+        "walk_minutes": 9.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.814,
+            18.508
+          ],
+          [
+            73.8078,
+            18.5088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Paud Road",
+        "to_station": "Anand Nagar",
+        "distance_m": 153.0,
+        "walk_minutes": 2.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.814,
+            18.508
+          ],
+          [
+            73.815,
+            18.509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kothrud Colony",
+        "to_station": "Vanaz",
+        "distance_m": 563.0,
+        "walk_minutes": 7.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8095,
+            18.504
+          ],
+          [
+            73.8078,
+            18.5088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Bopodi Bus Stop",
+        "to_station": "Bopodi",
+        "distance_m": 55.0,
+        "walk_minutes": 0.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8478,
+            18.552
+          ],
+          [
+            73.8475,
+            18.5524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Khadki Market",
+        "to_station": "Khadki",
+        "distance_m": 11.0,
+        "walk_minutes": 0.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.851,
+            18.5398
+          ],
+          [
+            73.8509,
+            18.5398
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Range Hills",
+        "to_station": "Range Hill",
+        "distance_m": 0.0,
+        "walk_minutes": 0.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8532,
+            18.5312
+          ],
+          [
+            73.8532,
+            18.5312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Range Hills",
+        "to_station": "Shivajinagar",
+        "distance_m": 232.0,
+        "walk_minutes": 3.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8532,
+            18.5312
+          ],
+          [
+            73.855,
+            18.53
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Range Hills",
+        "to_station": "District Court Pune",
+        "distance_m": 699.0,
+        "walk_minutes": 9.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8532,
+            18.5312
+          ],
+          [
+            73.85802,
+            18.52689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Range Hills",
+        "to_station": "District Court Pune",
+        "distance_m": 696.0,
+        "walk_minutes": 9.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8532,
+            18.5312
+          ],
+          [
+            73.858,
+            18.5269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "District Court Bus Stop",
+        "to_station": "Range Hill",
+        "distance_m": 690.0,
+        "walk_minutes": 9.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8582,
+            18.5272
+          ],
+          [
+            73.8532,
+            18.5312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "District Court Bus Stop",
+        "to_station": "Shivajinagar",
+        "distance_m": 459.0,
+        "walk_minutes": 6.4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8582,
+            18.5272
+          ],
+          [
+            73.855,
+            18.53
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "District Court Bus Stop",
+        "to_station": "District Court Pune",
+        "distance_m": 39.0,
+        "walk_minutes": 0.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8582,
+            18.5272
+          ],
+          [
+            73.85802,
+            18.52689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "District Court Bus Stop",
+        "to_station": "Chhatrapati Sambhaji Udyan",
+        "distance_m": 780.0,
+        "walk_minutes": 10.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8582,
+            18.5272
+          ],
+          [
+            73.856,
+            18.5205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "District Court Bus Stop",
+        "to_station": "PMC",
+        "distance_m": 493.0,
+        "walk_minutes": 6.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8582,
+            18.5272
+          ],
+          [
+            73.8567,
+            18.523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "District Court Bus Stop",
+        "to_station": "District Court Pune",
+        "distance_m": 39.0,
+        "walk_minutes": 0.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8582,
+            18.5272
+          ],
+          [
+            73.858,
+            18.5269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "District Court Bus Stop",
+        "to_station": "RTO Pune",
+        "distance_m": 696.0,
+        "walk_minutes": 9.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8582,
+            18.5272
+          ],
+          [
+            73.863,
+            18.5315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "RTO Pune",
+        "to_station": "District Court Pune",
+        "distance_m": 757.0,
+        "walk_minutes": 10.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8632,
+            18.5316
+          ],
+          [
+            73.85802,
+            18.52689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "RTO Pune",
+        "to_station": "District Court Pune",
+        "distance_m": 757.0,
+        "walk_minutes": 10.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8632,
+            18.5316
+          ],
+          [
+            73.858,
+            18.5269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "RTO Pune",
+        "to_station": "RTO Pune",
+        "distance_m": 24.0,
+        "walk_minutes": 0.3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8632,
+            18.5316
+          ],
+          [
+            73.863,
+            18.5315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Ruby Hall",
+        "to_station": "Ruby Hall Clinic",
+        "distance_m": 39.0,
+        "walk_minutes": 0.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8824,
+            18.5304
+          ],
+          [
+            73.8821,
+            18.5302
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Ruby Hall",
+        "to_station": "Bund Garden",
+        "distance_m": 670.0,
+        "walk_minutes": 9.3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8824,
+            18.5304
+          ],
+          [
+            73.8875,
+            18.534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Bund Garden",
+        "to_station": "Ruby Hall Clinic",
+        "distance_m": 748.0,
+        "walk_minutes": 10.4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8878,
+            18.5342
+          ],
+          [
+            73.8821,
+            18.5302
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Bund Garden",
+        "to_station": "Bund Garden",
+        "distance_m": 39.0,
+        "walk_minutes": 0.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8878,
+            18.5342
+          ],
+          [
+            73.8875,
+            18.534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Nagar Road",
+        "to_station": "Ramwadi",
+        "distance_m": 656.0,
+        "walk_minutes": 9.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9058,
+            18.5478
+          ],
+          [
+            73.9042,
+            18.5535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kothrud Bus Stop (NH)",
+        "to_station": "Vanaz",
+        "distance_m": 590.0,
+        "walk_minutes": 8.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.808,
+            18.5035
+          ],
+          [
+            73.8078,
+            18.5088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Shivajinagar Court",
+        "to_station": "Range Hill",
+        "distance_m": 265.0,
+        "walk_minutes": 3.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8508,
+            18.5305
+          ],
+          [
+            73.8532,
+            18.5312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Shivajinagar Court",
+        "to_station": "Shivajinagar",
+        "distance_m": 446.0,
+        "walk_minutes": 6.2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8508,
+            18.5305
+          ],
+          [
+            73.855,
+            18.53
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kothrud Naka",
+        "to_station": "Vanaz",
+        "distance_m": 325.0,
+        "walk_minutes": 4.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8092,
+            18.5062
+          ],
+          [
+            73.8078,
+            18.5088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kothrud Naka",
+        "to_station": "Anand Nagar",
+        "distance_m": 686.0,
+        "walk_minutes": 9.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8092,
+            18.5062
+          ],
+          [
+            73.815,
+            18.509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Market Yard",
+        "to_station": "Swargate",
+        "distance_m": 346.0,
+        "walk_minutes": 4.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.858,
+            18.498
+          ],
+          [
+            73.85696,
+            18.50095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Gultekdi",
+        "to_station": "Swargate",
+        "distance_m": 586.0,
+        "walk_minutes": 8.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8558,
+            18.4958
+          ],
+          [
+            73.85696,
+            18.50095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Erandwane",
+        "to_station": "Nal Stop",
+        "distance_m": 195.0,
+        "walk_minutes": 2.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8302,
+            18.5148
+          ],
+          [
+            73.832,
+            18.5152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Sadashiv Peth",
+        "to_station": "Garware College",
+        "distance_m": 349.0,
+        "walk_minutes": 4.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8475,
+            18.5178
+          ],
+          [
+            73.8442,
+            18.518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Sadashiv Peth",
+        "to_station": "Deccan Gymkhana",
+        "distance_m": 353.0,
+        "walk_minutes": 4.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8475,
+            18.5178
+          ],
+          [
+            73.8505,
+            18.5192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Navi Peth",
+        "to_station": "Kasba Peth",
+        "distance_m": 46.0,
+        "walk_minutes": 0.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8565,
+            18.5162
+          ],
+          [
+            73.8562,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Navi Peth",
+        "to_station": "Deccan Gymkhana",
+        "distance_m": 715.0,
+        "walk_minutes": 9.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8565,
+            18.5162
+          ],
+          [
+            73.8505,
+            18.5192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Navi Peth",
+        "to_station": "Chhatrapati Sambhaji Udyan",
+        "distance_m": 481.0,
+        "walk_minutes": 6.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8565,
+            18.5162
+          ],
+          [
+            73.856,
+            18.5205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Navi Peth",
+        "to_station": "PMC",
+        "distance_m": 756.0,
+        "walk_minutes": 10.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8565,
+            18.5162
+          ],
+          [
+            73.8567,
+            18.523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kasba Peth",
+        "to_station": "Kasba Peth",
+        "distance_m": 113.0,
+        "walk_minutes": 1.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.856,
+            18.5155
+          ],
+          [
+            73.8562,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kasba Peth",
+        "to_station": "Deccan Gymkhana",
+        "distance_m": 711.0,
+        "walk_minutes": 9.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.856,
+            18.5155
+          ],
+          [
+            73.8505,
+            18.5192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Kasba Peth",
+        "to_station": "Chhatrapati Sambhaji Udyan",
+        "distance_m": 556.0,
+        "walk_minutes": 7.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.856,
+            18.5155
+          ],
+          [
+            73.856,
+            18.5205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Rasta Peth",
+        "to_station": "Kasba Peth",
+        "distance_m": 564.0,
+        "walk_minutes": 7.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8615,
+            18.5172
+          ],
+          [
+            73.8562,
+            18.5165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Rasta Peth",
+        "to_station": "Chhatrapati Sambhaji Udyan",
+        "distance_m": 686.0,
+        "walk_minutes": 9.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8615,
+            18.5172
+          ],
+          [
+            73.856,
+            18.5205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Sangamwadi",
+        "to_station": "Bund Garden",
+        "distance_m": 754.0,
+        "walk_minutes": 10.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8912,
+            18.5398
+          ],
+          [
+            73.8875,
+            18.534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Sangamwadi",
+        "to_station": "Yerawada",
+        "distance_m": 337.0,
+        "walk_minutes": 4.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8912,
+            18.5398
+          ],
+          [
+            73.889,
+            18.542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Boat Club Road",
+        "to_station": "Pune Railway Station",
+        "distance_m": 408.0,
+        "walk_minutes": 5.7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.878,
+            18.5278
+          ],
+          [
+            73.8742,
+            18.5285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Boat Club Road",
+        "to_station": "Ruby Hall Clinic",
+        "distance_m": 508.0,
+        "walk_minutes": 7.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.878,
+            18.5278
+          ],
+          [
+            73.8821,
+            18.5302
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Camp",
+        "to_station": "Ruby Hall Clinic",
+        "distance_m": 782.0,
+        "walk_minutes": 10.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8882,
+            18.5262
+          ],
+          [
+            73.8821,
+            18.5302
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Koregaon Park",
+        "to_station": "Bund Garden",
+        "distance_m": 708.0,
+        "walk_minutes": 9.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8938,
+            18.5362
+          ],
+          [
+            73.8875,
+            18.534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "North Main Road",
+        "to_station": "Yerawada",
+        "distance_m": 573.0,
+        "walk_minutes": 8.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8942,
+            18.5405
+          ],
+          [
+            73.889,
+            18.542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "North Main Road",
+        "to_station": "Kalyani Nagar",
+        "distance_m": 762.0,
+        "walk_minutes": 10.6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8942,
+            18.5405
+          ],
+          [
+            73.8965,
+            18.547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Sant Tukaram Nagar Stop",
+        "to_station": "Sant Tukaram Nagar",
+        "distance_m": 39.0,
+        "walk_minutes": 0.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8128,
+            18.6218
+          ],
+          [
+            73.813,
+            18.6215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "interchange_walk",
+        "from_stop": "Pimpri Chowk",
+        "to_station": "PCMC Bhavan",
+        "distance_m": 511.0,
+        "walk_minutes": 7.1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8035,
+            18.6248
+          ],
+          [
+            73.80336,
+            18.62939
+          ]
+        ]
+      }
+    }
+  ]
+}

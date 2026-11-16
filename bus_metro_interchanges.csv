@@ -1,0 +1,137 @@
+bus_stop_id,bus_stop_name,metro_station_id,metro_station_name,bus_lat,bus_lon,metro_lat,metro_lon,walking_distance_m,estimated_walking_time_minutes,line,connection_type,data_source
+BS001,Kothrud Depot,AL01,Vanaz,18.5054,73.8102,18.5088,73.8078,455.0,6.3,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS001,Kothrud Depot,AL02,Anand Nagar,18.5054,73.8102,18.509,73.815,645.0,9.0,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS002,Vanaz Corner,AL01,Vanaz,18.5075,73.8092,18.5088,73.8078,207.0,2.9,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS002,Vanaz Corner,AL02,Anand Nagar,18.5075,73.8092,18.509,73.815,634.0,8.8,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS003,Ideal Colony Bus Stop,AL02,Anand Nagar,18.512,73.8213,18.509,73.815,743.0,10.3,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS003,Ideal Colony Bus Stop,AL03,Ideal Colony,18.512,73.8213,18.512,73.821,32.0,0.4,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS004,Paud Phata,AL04,Nal Stop,18.5188,73.828,18.5152,73.832,581.0,8.1,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS005,More Vidyalaya,AL01,Vanaz,18.502,73.8085,18.5088,73.8078,760.0,10.6,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS009,Deccan Corner,PL12,Kasba Peth,18.5188,73.8495,18.5165,73.8562,751.0,10.4,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS009,Deccan Corner,AL06,Garware College,18.5188,73.8495,18.518,73.8442,566.0,7.9,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS009,Deccan Corner,AL07,Deccan Gymkhana,18.5188,73.8495,18.5192,73.8505,114.0,1.6,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS009,Deccan Corner,AL08,Chhatrapati Sambhaji Udyan,18.5188,73.8495,18.5205,73.856,711.0,9.9,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS010,Fergusson College,AL05,SNDT College,18.52,73.845,18.5165,73.8385,788.0,10.9,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS010,Fergusson College,AL06,Garware College,18.52,73.845,18.518,73.8442,238.0,3.3,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS010,Fergusson College,AL07,Deccan Gymkhana,18.52,73.845,18.5192,73.8505,587.0,8.1,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS011,SNDT College Stop,AL04,Nal Stop,18.5162,73.8382,18.5152,73.832,663.0,9.2,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS011,SNDT College Stop,AL05,SNDT College,18.5162,73.8382,18.5165,73.8385,46.0,0.6,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS011,SNDT College Stop,AL06,Garware College,18.5162,73.8382,18.518,73.8442,664.0,9.2,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS012,Garware College Stop,AL05,SNDT College,18.5177,73.844,18.5165,73.8385,595.0,8.3,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS012,Garware College Stop,AL06,Garware College,18.5177,73.844,18.518,73.8442,39.0,0.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS012,Garware College Stop,AL07,Deccan Gymkhana,18.5177,73.844,18.5192,73.8505,705.0,9.8,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS013,Deccan Gymkhana Stop,PL12,Kasba Peth,18.519,73.8508,18.5165,73.8562,634.0,8.8,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS013,Deccan Gymkhana Stop,AL06,Garware College,18.519,73.8508,18.518,73.8442,705.0,9.8,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS013,Deccan Gymkhana Stop,AL07,Deccan Gymkhana,18.519,73.8508,18.5192,73.8505,39.0,0.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS013,Deccan Gymkhana Stop,AL08,Chhatrapati Sambhaji Udyan,18.519,73.8508,18.5205,73.856,573.0,8.0,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS013,Deccan Gymkhana Stop,AL09,PMC,18.519,73.8508,18.523,73.8567,765.0,10.6,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS014,Shivajinagar Bus Stand,PL09,Range Hill,18.5307,73.847,18.5312,73.8532,656.0,9.1,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS016,Bal Gandharva,PL09,Range Hill,18.5278,73.8484,18.5312,73.8532,632.0,8.8,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS016,Bal Gandharva,PL10,Shivajinagar,18.5278,73.8484,18.53,73.855,738.0,10.2,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS017,Swargate Bus Station,PL13,Mandai,18.502,73.8572,18.5082,73.8565,693.0,9.6,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS017,Swargate Bus Station,PL14,Swargate,18.502,73.8572,18.50095,73.85696,119.0,1.7,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS018,Swargate Corner,PL13,Mandai,18.5035,73.8565,18.5082,73.8565,523.0,7.3,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS018,Swargate Corner,PL14,Swargate,18.5035,73.8565,18.50095,73.85696,288.0,4.0,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS019,Hirabaug,PL13,Mandai,18.508,73.8562,18.5082,73.8565,39.0,0.5,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS019,Hirabaug,PL14,Swargate,18.508,73.8562,18.50095,73.85696,788.0,10.9,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS020,Laxminarayan Talkies,PL13,Mandai,18.506,73.8545,18.5082,73.8565,323.0,4.5,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS020,Laxminarayan Talkies,PL14,Swargate,18.506,73.8545,18.50095,73.85696,619.0,8.6,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS048,Yerawada,AL15,Yerawada,18.5445,73.89,18.542,73.889,297.0,4.1,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS048,Yerawada,AL16,Kalyani Nagar,18.5445,73.89,18.547,73.8965,739.0,10.3,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS049,Yerawada Corner,AL15,Yerawada,18.542,73.8882,18.542,73.889,84.0,1.2,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS050,Aga Khan Palace,AL16,Kalyani Nagar,18.5508,73.9018,18.547,73.8965,701.0,9.7,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS050,Aga Khan Palace,AL17,Ramwadi,18.5508,73.9018,18.5535,73.9042,393.0,5.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS051,Kalyani Nagar Phata,AL16,Kalyani Nagar,18.5478,73.901,18.547,73.8965,483.0,6.7,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS051,Kalyani Nagar Phata,AL17,Ramwadi,18.5478,73.901,18.5535,73.9042,718.0,10.0,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS052,Kalyani Nagar,AL16,Kalyani Nagar,18.549,73.902,18.547,73.8965,621.0,8.6,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS052,Kalyani Nagar,AL17,Ramwadi,18.549,73.902,18.5535,73.9042,552.0,7.7,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS053,Ramwadi Corner,AL17,Ramwadi,18.5542,73.9048,18.5535,73.9042,100.0,1.4,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS054,Ramwadi,AL17,Ramwadi,18.556,73.9065,18.5535,73.9042,369.0,5.1,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS055,Pune Railway Station,AL12,Pune Railway Station,18.5296,73.8742,18.5285,73.8742,122.0,1.7,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS056,Station Road,AL12,Pune Railway Station,18.531,73.875,18.5285,73.8742,291.0,4.0,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS056,Station Road,AL13,Ruby Hall Clinic,18.531,73.875,18.5302,73.8821,754.0,10.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS057,Sambhaji Bridge,AL12,Pune Railway Station,18.533,73.872,18.5285,73.8742,552.0,7.7,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS058,Sangam Bridge,AL12,Pune Railway Station,18.525,73.87,18.5285,73.8742,590.0,8.2,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS059,Pimpri Camp,PL01,PCMC Bhavan,18.623,73.801,18.62939,73.80336,753.0,10.5,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS060,Pimpri Station,PL01,PCMC Bhavan,18.6281,73.7991,18.62939,73.80336,471.0,6.5,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS066,PCMC Building,PL01,PCMC Bhavan,18.6294,73.804,18.62939,73.80336,67.0,0.9,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS068,Nashik Phata,PL03,Bhosari,18.6115,73.8205,18.6112,73.822,162.0,2.2,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS069,Kasarwadi,PL04,Kasarwadi,18.596,73.8285,18.5954,73.8285,67.0,0.9,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS070,Dapodi Bus Stop,PL06,Dapodi,18.566,73.8425,18.5661,73.8423,24.0,0.3,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS071,Pune Municipal Corporation,PL10,Shivajinagar,18.5236,73.8572,18.53,73.855,748.0,10.4,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS071,Pune Municipal Corporation,PL11,District Court Pune,18.5236,73.8572,18.52689,73.85802,376.0,5.2,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS071,Pune Municipal Corporation,PL12,Kasba Peth,18.5236,73.8572,18.5165,73.8562,796.0,11.1,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS071,Pune Municipal Corporation,AL08,Chhatrapati Sambhaji Udyan,18.5236,73.8572,18.5205,73.856,367.0,5.1,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS071,Pune Municipal Corporation,AL09,PMC,18.5236,73.8572,18.523,73.8567,85.0,1.2,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS071,Pune Municipal Corporation,AL10,District Court Pune,18.5236,73.8572,18.5269,73.858,377.0,5.2,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS072,Kesariwada,PL12,Kasba Peth,18.5192,73.854,18.5165,73.8562,379.0,5.3,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS072,Kesariwada,AL07,Deccan Gymkhana,18.5192,73.854,18.5192,73.8505,369.0,5.1,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS072,Kesariwada,AL08,Chhatrapati Sambhaji Udyan,18.5192,73.854,18.5205,73.856,256.0,3.6,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS072,Kesariwada,AL09,PMC,18.5192,73.854,18.523,73.8567,509.0,7.1,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS073,Mandai,PL13,Mandai,18.508,73.8565,18.5082,73.8565,22.0,0.3,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS073,Mandai,PL14,Swargate,18.508,73.8565,18.50095,73.85696,785.0,10.9,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS074,Budhwar Peth,PL12,Kasba Peth,18.5155,73.856,18.5165,73.8562,113.0,1.6,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS074,Budhwar Peth,AL07,Deccan Gymkhana,18.5155,73.856,18.5192,73.8505,711.0,9.9,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS074,Budhwar Peth,AL08,Chhatrapati Sambhaji Udyan,18.5155,73.856,18.5205,73.856,556.0,7.7,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS075,Lal Mahal,PL12,Kasba Peth,18.5165,73.853,18.5165,73.8562,337.0,4.7,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS075,Lal Mahal,AL07,Deccan Gymkhana,18.5165,73.853,18.5192,73.8505,400.0,5.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS075,Lal Mahal,AL08,Chhatrapati Sambhaji Udyan,18.5165,73.853,18.5205,73.856,546.0,7.6,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS076,Shaniwar Peth,PL12,Kasba Peth,18.5178,73.8505,18.5165,73.8562,618.0,8.6,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS076,Shaniwar Peth,AL06,Garware College,18.5178,73.8505,18.518,73.8442,665.0,9.2,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS076,Shaniwar Peth,AL07,Deccan Gymkhana,18.5178,73.8505,18.5192,73.8505,156.0,2.2,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS076,Shaniwar Peth,AL08,Chhatrapati Sambhaji Udyan,18.5178,73.8505,18.5205,73.856,653.0,9.1,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS077,Nal Stop,AL04,Nal Stop,18.5155,73.8322,18.5152,73.832,39.0,0.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS077,Nal Stop,AL05,SNDT College,18.5155,73.8322,18.5165,73.8385,674.0,9.4,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS078,Paud Road,AL01,Vanaz,18.508,73.814,18.5088,73.8078,660.0,9.2,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS078,Paud Road,AL02,Anand Nagar,18.508,73.814,18.509,73.815,153.0,2.1,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS080,Kothrud Colony,AL01,Vanaz,18.504,73.8095,18.5088,73.8078,563.0,7.8,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS081,Bopodi Bus Stop,PL07,Bopodi,18.552,73.8478,18.5524,73.8475,55.0,0.8,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS082,Khadki Market,PL08,Khadki,18.5398,73.851,18.5398,73.8509,11.0,0.1,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS083,Range Hills,PL09,Range Hill,18.5312,73.8532,18.5312,73.8532,0.0,0.0,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS083,Range Hills,PL10,Shivajinagar,18.5312,73.8532,18.53,73.855,232.0,3.2,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS083,Range Hills,PL11,District Court Pune,18.5312,73.8532,18.52689,73.85802,699.0,9.7,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS083,Range Hills,AL10,District Court Pune,18.5312,73.8532,18.5269,73.858,696.0,9.7,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS084,District Court Bus Stop,PL09,Range Hill,18.5272,73.8582,18.5312,73.8532,690.0,9.6,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS084,District Court Bus Stop,PL10,Shivajinagar,18.5272,73.8582,18.53,73.855,459.0,6.4,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS084,District Court Bus Stop,PL11,District Court Pune,18.5272,73.8582,18.52689,73.85802,39.0,0.5,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS084,District Court Bus Stop,AL08,Chhatrapati Sambhaji Udyan,18.5272,73.8582,18.5205,73.856,780.0,10.8,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS084,District Court Bus Stop,AL09,PMC,18.5272,73.8582,18.523,73.8567,493.0,6.8,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS084,District Court Bus Stop,AL10,District Court Pune,18.5272,73.8582,18.5269,73.858,39.0,0.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS084,District Court Bus Stop,AL11,RTO Pune,18.5272,73.8582,18.5315,73.863,696.0,9.7,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS085,RTO Pune,PL11,District Court Pune,18.5316,73.8632,18.52689,73.85802,757.0,10.5,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS085,RTO Pune,AL10,District Court Pune,18.5316,73.8632,18.5269,73.858,757.0,10.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS085,RTO Pune,AL11,RTO Pune,18.5316,73.8632,18.5315,73.863,24.0,0.3,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS086,Ruby Hall,AL13,Ruby Hall Clinic,18.5304,73.8824,18.5302,73.8821,39.0,0.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS086,Ruby Hall,AL14,Bund Garden,18.5304,73.8824,18.534,73.8875,670.0,9.3,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS087,Bund Garden,AL13,Ruby Hall Clinic,18.5342,73.8878,18.5302,73.8821,748.0,10.4,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS087,Bund Garden,AL14,Bund Garden,18.5342,73.8878,18.534,73.8875,39.0,0.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS088,Nagar Road,AL17,Ramwadi,18.5478,73.9058,18.5535,73.9042,656.0,9.1,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS098,Kothrud Bus Stop (NH),AL01,Vanaz,18.5035,73.808,18.5088,73.8078,590.0,8.2,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS101,Shivajinagar Court,PL09,Range Hill,18.5305,73.8508,18.5312,73.8532,265.0,3.7,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS101,Shivajinagar Court,PL10,Shivajinagar,18.5305,73.8508,18.53,73.855,446.0,6.2,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS106,Kothrud Naka,AL01,Vanaz,18.5062,73.8092,18.5088,73.8078,325.0,4.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS106,Kothrud Naka,AL02,Anand Nagar,18.5062,73.8092,18.509,73.815,686.0,9.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS107,Market Yard,PL14,Swargate,18.498,73.858,18.50095,73.85696,346.0,4.8,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS108,Gultekdi,PL14,Swargate,18.4958,73.8558,18.50095,73.85696,586.0,8.1,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS119,Erandwane,AL04,Nal Stop,18.5148,73.8302,18.5152,73.832,195.0,2.7,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS120,Sadashiv Peth,AL06,Garware College,18.5178,73.8475,18.518,73.8442,349.0,4.8,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS120,Sadashiv Peth,AL07,Deccan Gymkhana,18.5178,73.8475,18.5192,73.8505,353.0,4.9,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS121,Navi Peth,PL12,Kasba Peth,18.5162,73.8565,18.5165,73.8562,46.0,0.6,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS121,Navi Peth,AL07,Deccan Gymkhana,18.5162,73.8565,18.5192,73.8505,715.0,9.9,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS121,Navi Peth,AL08,Chhatrapati Sambhaji Udyan,18.5162,73.8565,18.5205,73.856,481.0,6.7,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS121,Navi Peth,AL09,PMC,18.5162,73.8565,18.523,73.8567,756.0,10.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS122,Kasba Peth,PL12,Kasba Peth,18.5155,73.856,18.5165,73.8562,113.0,1.6,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS122,Kasba Peth,AL07,Deccan Gymkhana,18.5155,73.856,18.5192,73.8505,711.0,9.9,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS122,Kasba Peth,AL08,Chhatrapati Sambhaji Udyan,18.5155,73.856,18.5205,73.856,556.0,7.7,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS125,Rasta Peth,PL12,Kasba Peth,18.5172,73.8615,18.5165,73.8562,564.0,7.8,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS125,Rasta Peth,AL08,Chhatrapati Sambhaji Udyan,18.5172,73.8615,18.5205,73.856,686.0,9.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS133,Sangamwadi,AL14,Bund Garden,18.5398,73.8912,18.534,73.8875,754.0,10.5,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS133,Sangamwadi,AL15,Yerawada,18.5398,73.8912,18.542,73.889,337.0,4.7,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS134,Boat Club Road,AL12,Pune Railway Station,18.5278,73.878,18.5285,73.8742,408.0,5.7,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS134,Boat Club Road,AL13,Ruby Hall Clinic,18.5278,73.878,18.5302,73.8821,508.0,7.1,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS135,Camp,AL13,Ruby Hall Clinic,18.5262,73.8882,18.5302,73.8821,782.0,10.9,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS136,Koregaon Park,AL14,Bund Garden,18.5362,73.8938,18.534,73.8875,708.0,9.8,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS137,North Main Road,AL15,Yerawada,18.5405,73.8942,18.542,73.889,573.0,8.0,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS137,North Main Road,AL16,Kalyani Nagar,18.5405,73.8942,18.547,73.8965,762.0,10.6,Aqua Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS145,Sant Tukaram Nagar Stop,PL02,Sant Tukaram Nagar,18.6218,73.8128,18.6215,73.813,39.0,0.5,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates
+BS146,Pimpri Chowk,PL01,PCMC Bhavan,18.6248,73.8035,18.62939,73.80336,511.0,7.1,Purple Line,Walk,COMPUTED - Haversine distance from verified coordinates

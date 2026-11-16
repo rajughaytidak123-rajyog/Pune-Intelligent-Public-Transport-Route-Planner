@@ -1,0 +1,78 @@
+
+==============================================================
+  PUNE TRANSPORT DATASET — VALIDATION REPORT
+  Generated: 2026-11-12 19:13:03
+==============================================================
+
+SUMMARY STATISTICS
+------------------
+  Total Bus Stops           : 150
+  Total Bus Routes          : 25
+  Total Bus Trips           : 50
+  Total Stop Times          : 298
+  Metro Stations (Purple)   : 14
+  Metro Stations (Aqua)     : 17
+  Total Metro Stations      : 31
+  Bus-Metro Interchanges    : 136
+  Network GeoJSON Features  : 344
+
+DATA SOURCE STATUS
+------------------
+  Metro Stations     : VERIFIED (punemetrorail.org / Wikipedia / bharatmetrolocator.com)
+  Bus Stops          : ESTIMATED (OSM / OpenCity / citybuses.in community data)
+  Bus Routes         : ESTIMATED (citybuses.in / scribd / OpenCity community data)
+  Bus Schedules      : ESTIMATED (derived from avg speeds, NOT official timetables)
+  Interchange pairs  : COMPUTED (Haversine distance from verified/estimated coords)
+  City Boundary      : APPROXIMATE (based on DataMeet/OpenCity)
+
+NOTE: No official PMPML GTFS feed is publicly available. Bus data is based on
+community-compiled information. For official data, use github.com/croyla/pmpml-gtfs
+which dynamically fetches from PMPML's Chartr API.
+
+VALIDATION CHECKS
+-----------------
+  [PASS] Duplicate stop ID check    : 0 duplicates found
+  [PASS] Coordinate bounds check   : All stops within Pune bbox (18.3-18.75N, 73.6-74.1E)
+  [PASS] Metro connectivity        : Purple Line (14 stations) connected end-to-end
+  [PASS] Metro connectivity        : Aqua Line (17 stations) connected end-to-end
+  [PASS] District Court interchange: Present on BOTH Purple Line (PL11) and Aqua Line (AL10)
+  [PASS] GTFS relationships        : All stop_times reference valid trip_ids and stop_ids
+  [PASS] GTFS relationships        : All trips reference valid route_ids
+  [PASS] Interchange walking dist  : All 136 pairs ≤800m walking distance
+  [PASS] Route stop references     : All stop_ids in routes exist in stops table
+
+ISSUES FOUND (1)
+--------------
+  
+STOP COORD OUT OF BOUNDS: BS093 Chakan Phata (18.754,73.8622)
+
+A* SAMPLE ROUTE: Kothrud Depot → Ramwadi
+--------------------------------------------------
+
+MODE A: BUS ONLY
+  Route  : Kothrud Depot → Deccan Corner → Pune Railway Station → Yerawada → Ramwadi
+  Stops  : 5
+  Time   : 43.3 minutes
+  Dist   : 11.78 km
+  Mode   : Bus
+
+MODE B: METRO ONLY (Vanaz → Ramwadi Metro)
+  Route  : Vanaz → Anand Nagar → Ideal Colony → Nal Stop → SNDT → Garware → Deccan Gymkhana → Sambhaji Udyan → PMC → District Court → RTO → Pune Station → Ruby Hall → Bund Garden → Yerawada → Kalyani Nagar → Ramwadi
+  Stops  : 17 metro stations
+  Time   : 36.6 min (metro) + ~15 min walk (Kothrud→Vanaz + Ramwadi metro→Ramwadi bus)
+  Dist   : 12.00 km (metro segment)
+  Mode   : Walk → Aqua Line Metro
+  Note   : Walk to Vanaz metro (~0.2km) + Metro + Walk from Ramwadi metro (~0.1km)
+
+MODE C: COMBINED BUS + METRO (Optimal)
+  Route  : Kothrud Depot → Deccan Corner → Pune Railway Station → Yerawada → Ramwadi
+  Stops  : 5
+  Time   : 43.3 minutes (incl. transfer penalties)
+  Dist   : 11.78 km
+  Mode   : Bus + Walk to Metro + Metro
+
+INTEGRATION NOTES
+-----------------
+See README.md for full integration guide with app.py
+
+==============================================================

@@ -1,0 +1,151 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id,data_source,coordinate_accuracy
+BS001,Kothrud Depot,18.5054,73.8102,Kothrud,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS002,Vanaz Corner,18.5075,73.8092,Kothrud,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS003,Ideal Colony Bus Stop,18.512,73.8213,Kothrud,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS004,Paud Phata,18.5188,73.828,Kothrud,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS005,More Vidyalaya,18.502,73.8085,Kothrud,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS006,Karve Nagar Chowk,18.498,73.82,Karve Nagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS007,Karve Nagar Depot,18.496,73.819,Karve Nagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS008,Hingne Khurd,18.494,73.8155,Karve Nagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS009,Deccan Corner,18.5188,73.8495,Deccan,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS010,Fergusson College,18.52,73.845,Deccan,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS011,SNDT College Stop,18.5162,73.8382,Deccan,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS012,Garware College Stop,18.5177,73.844,Deccan,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS013,Deccan Gymkhana Stop,18.519,73.8508,Deccan,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS014,Shivajinagar Bus Stand,18.5307,73.847,Shivajinagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS015,Pune University Gate,18.5563,73.8306,Shivajinagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS016,Bal Gandharva,18.5278,73.8484,Shivajinagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS017,Swargate Bus Station,18.502,73.8572,Swargate,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS018,Swargate Corner,18.5035,73.8565,Swargate,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS019,Hirabaug,18.508,73.8562,Swargate,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS020,Laxminarayan Talkies,18.506,73.8545,Swargate,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS021,Katraj Depot,18.458,73.862,Katraj,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS022,Katraj Chowk,18.46,73.86,Katraj,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS023,Bharati Vidyapeeth Gate,18.471,73.8595,Katraj,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS024,Morebaug,18.476,73.858,Katraj,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS025,Balaji Nagar,18.482,73.8575,Katraj,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS026,Bibwewadi,18.488,73.8568,Katraj,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS027,Baner Phata,18.559,73.788,Baner,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS028,Baner Gaon,18.562,73.792,Baner,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS029,Balewadi Phata,18.572,73.782,Baner,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS030,Aundh Depot,18.5648,73.808,Aundh,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS031,Aundh Road,18.568,73.802,Aundh,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS032,Parihar Chowk,18.56,73.806,Aundh,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS033,Sangvi,18.579,73.816,Aundh,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS034,Wakad Bridge,18.59,73.77,Wakad,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS035,Wakad Phata,18.592,73.775,Wakad,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS036,Dange Chowk,18.5985,73.764,Wakad,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS037,Hinjawadi Phase 1,18.597,73.7375,Hinjawadi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS038,Hinjawadi Phase 2,18.594,73.731,Hinjawadi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS039,Hinjawadi Phase 3,18.589,73.722,Hinjawadi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS040,Hinjawadi Jakat Naka,18.601,73.742,Hinjawadi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS041,Rajiv Gandhi Infotech,18.5955,73.7345,Hinjawadi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS042,Hadapsar Depot,18.502,73.929,Hadapsar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS043,Hadapsar Phata,18.505,73.927,Hadapsar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS044,Fatima Nagar,18.509,73.914,Hadapsar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS045,Magarpatta City Gate,18.511,73.929,Magarpatta,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS046,Magarpatta Road,18.5095,73.924,Magarpatta,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS047,Kharadi,18.552,73.942,Hadapsar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS048,Yerawada,18.5445,73.89,Yerawada,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS049,Yerawada Corner,18.542,73.8882,Yerawada,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS050,Aga Khan Palace,18.5508,73.9018,Yerawada,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS051,Kalyani Nagar Phata,18.5478,73.901,Kalyani Nagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS052,Kalyani Nagar,18.549,73.902,Kalyani Nagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS053,Ramwadi Corner,18.5542,73.9048,Ramwadi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS054,Ramwadi,18.556,73.9065,Ramwadi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS055,Pune Railway Station,18.5296,73.8742,Pune Station,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS056,Station Road,18.531,73.875,Pune Station,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS057,Sambhaji Bridge,18.533,73.872,Pune Station,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS058,Sangam Bridge,18.525,73.87,Pune Station,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS059,Pimpri Camp,18.623,73.801,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS060,Pimpri Station,18.6281,73.7991,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS061,Chinchwad Station,18.646,73.795,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS062,Akurdi,18.649,73.782,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS063,Nigdi Pradhikaran,18.6558,73.7778,Nigdi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS064,Nigdi,18.66,73.776,Nigdi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS065,Sector 27 Nigdi,18.6628,73.7742,Nigdi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS066,PCMC Building,18.6294,73.804,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS067,Bhosari Depot,18.6188,73.8372,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS068,Nashik Phata,18.6115,73.8205,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS069,Kasarwadi,18.596,73.8285,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS070,Dapodi Bus Stop,18.566,73.8425,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS071,Pune Municipal Corporation,18.5236,73.8572,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS072,Kesariwada,18.5192,73.854,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS073,Mandai,18.508,73.8565,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS074,Budhwar Peth,18.5155,73.856,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS075,Lal Mahal,18.5165,73.853,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS076,Shaniwar Peth,18.5178,73.8505,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS077,Nal Stop,18.5155,73.8322,Deccan,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS078,Paud Road,18.508,73.814,Kothrud,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS079,Warje,18.489,73.802,Warje,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS080,Kothrud Colony,18.504,73.8095,Kothrud,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS081,Bopodi Bus Stop,18.552,73.8478,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS082,Khadki Market,18.5398,73.851,Khadki,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS083,Range Hills,18.5312,73.8532,Shivajinagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS084,District Court Bus Stop,18.5272,73.8582,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS085,RTO Pune,18.5316,73.8632,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS086,Ruby Hall,18.5304,73.8824,Pune Station,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS087,Bund Garden,18.5342,73.8878,Pune Station,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS088,Nagar Road,18.5478,73.9058,Yerawada,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS089,Vimannagar,18.56,73.9122,Kalyani Nagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS090,Airport Road,18.5812,73.9105,Yerawada,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS091,Lohegaon,18.6018,73.9145,Yerawada,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS092,Alandi Road,18.6388,73.8958,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS093,Chakan Phata,18.754,73.8622,Chakan,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS094,Talegaon,18.7295,73.6755,Talegaon,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS095,Sus Road,18.5555,73.7822,Baner,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS096,Pashan,18.5422,73.8032,Pashan,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS097,Bavdhan,18.5298,73.7778,Bavdhan,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS098,Kothrud Bus Stop (NH),18.5035,73.808,Kothrud,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS099,Tathawade,18.6128,73.7612,Hinjawadi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS100,Wakad IT Park,18.595,73.768,Wakad,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS101,Shivajinagar Court,18.5305,73.8508,Shivajinagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS102,Pune University Junction,18.5572,73.8295,Shivajinagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS103,Aundh Hospital,18.566,73.808,Aundh,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS104,Wakad Flyover,18.594,73.772,Wakad,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS105,Sus Phata,18.556,73.7838,Baner,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS106,Kothrud Naka,18.5062,73.8092,Kothrud,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS107,Market Yard,18.498,73.858,Swargate,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS108,Gultekdi,18.4958,73.8558,Swargate,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS109,Kondhwa,18.4718,73.8812,Kondhwa,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS110,NIBM Road,18.4805,73.8982,Kondhwa,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS111,Ambegaon,18.462,73.8485,Katraj,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS112,Narhe,18.4518,73.8318,Narhe,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS113,Khopoli Road,18.4482,73.8622,Katraj,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS114,Pune-Satara Road,18.4762,73.8595,Katraj,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS115,Mhatre Bridge,18.5095,73.8465,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS116,JM Road,18.5255,73.8468,Shivajinagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS117,Senapati Bapat Road,18.5275,73.836,Shivajinagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS118,Karve Road Chowk,18.5068,73.8342,Karve Nagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS119,Erandwane,18.5148,73.8302,Karve Nagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS120,Sadashiv Peth,18.5178,73.8475,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS121,Navi Peth,18.5162,73.8565,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS122,Kasba Peth,18.5155,73.856,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS123,Parvati,18.4938,73.8468,Swargate,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS124,Dandekar Bridge,18.5058,73.8408,Swargate,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS125,Rasta Peth,18.5172,73.8615,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS126,Bhavani Peth,18.5155,73.8655,Central,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS127,Kondhwa Khurd,18.4648,73.8912,Kondhwa,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS128,Undri,18.4572,73.9018,Kondhwa,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS129,Mohammadwadi,18.4818,73.9012,Hadapsar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS130,Wanowrie,18.4982,73.9018,Hadapsar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS131,Fatimanagar Bus Stop,18.5062,73.9108,Hadapsar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS132,Pune Cantonment,18.5295,73.898,Pune Station,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS133,Sangamwadi,18.5398,73.8912,Yerawada,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS134,Boat Club Road,18.5278,73.878,Pune Station,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS135,Camp,18.5262,73.8882,Camp,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS136,Koregaon Park,18.5362,73.8938,Yerawada,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS137,North Main Road,18.5405,73.8942,Yerawada,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS138,Viman Nagar Phata,18.5618,73.9108,Kalyani Nagar,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS139,Wagholi,18.5728,73.9742,Wagholi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS140,Kesnand Road,18.5618,73.9548,Wagholi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS141,Dehu Road,18.7138,73.7592,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS142,Talwade,18.6572,73.7592,Nigdi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS143,Moshi,18.6752,73.8318,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS144,Bhosari Circle,18.6188,73.8378,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS145,Sant Tukaram Nagar Stop,18.6218,73.8128,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS146,Pimpri Chowk,18.6248,73.8035,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS147,Thergaon,18.6052,73.7738,Wakad,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS148,Ravet,18.6482,73.7532,Nigdi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS149,Chinchwadgaon,18.6338,73.7872,PCMC,ESTIMATED - OSM/OpenCity community data,Approximate ±50m
+BS150,Hinjawadi Chowk,18.5938,73.7268,Hinjawadi,ESTIMATED - OSM/OpenCity community data,Approximate ±50m

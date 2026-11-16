@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "name": "Pune_PCMC_Municipal_Boundary",
+  "metadata": {
+    "description": "Approximate PMC + PCMC municipal boundary",
+    "note": "This is an approximate boundary polygon for visualization purposes. For official legal boundaries, refer to PMC/PCMC official GIS portal.",
+    "source": "Approximated from DataMeet/OpenCity community data",
+    "data_source_status": "APPROXIMATE - For official boundary use datameet/Pune_wards GeoJSON",
+    "crs": "EPSG:4326",
+    "generated": "2026-11-12T19:13:03.219608"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "pune_pmc_pcmc_boundary",
+      "properties": {
+        "name": "Pune Municipal Corporation + PCMC Area",
+        "type": "Municipal Boundary",
+        "includes": "PMC area + Pimpri-Chinchwad Municipal Corporation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.7778,
+              18.6558
+            ],
+            [
+              73.804,
+              18.6294
+            ],
+            [
+              73.8372,
+              18.6188
+            ],
+            [
+              73.8958,
+              18.6388
+            ],
+            [
+              73.9145,
+              18.6018
+            ],
+            [
+              73.9742,
+              18.5728
+            ],
+            [
+              73.9548,
+              18.5618
+            ],
+            [
+              73.929,
+              18.502
+            ],
+            [
+              73.924,
+              18.5095
+            ],
+            [
+              73.9018,
+              18.5508
+            ],
+            [
+              73.898,
+              18.5295
+            ],
+            [
+              73.8982,
+              18.4958
+            ],
+            [
+              73.8812,
+              18.4718
+            ],
+            [
+              73.8485,
+              18.462
+            ],
+            [
+              73.8318,
+              18.4518
+            ],
+            [
+              73.8102,
+              18.489
+            ],
+            [
+              73.802,
+              18.496
+            ],
+            [
+              73.7778,
+              18.4938
+            ],
+            [
+              73.7592,
+              18.5298
+            ],
+            [
+              73.7375,
+              18.597
+            ],
+            [
+              73.722,
+              18.589
+            ],
+            [
+              73.7532,
+              18.6482
+            ],
+            [
+              73.7742,
+              18.6628
+            ],
+            [
+              73.776,
+              18.66
+            ],
+            [
+              73.7778,
+              18.6558
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
